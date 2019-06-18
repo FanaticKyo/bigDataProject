@@ -1,3 +1,3 @@
 # bigDataProject
-Analyzing google analytics data using Hadoop and Spark \n
+Analyzing google analytics data using Hadoop and Spark\
 Set up your path and just run it!
