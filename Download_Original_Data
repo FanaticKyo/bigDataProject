@@ -1,0 +1,124 @@
+{
+ "cells": [
+  {
+   "cell_type": "code",
+   "execution_count": 2,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "import os\n",
+    "from google.cloud.bigquery.client import Client\n",
+    "\n",
+    "os.environ['GOOGLE_APPLICATION_CREDENTIALS'] = 'Java NLP Group Project-1fcfe7445e8b.json'"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 3,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "from google.cloud import bigquery\n",
+    "import pandas as pd"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 4,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "bq = bigquery.Client()"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 5,
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "Date: 20170718\n",
+      "2804 rows, 16 columns\n",
+      "Date: 20170719\n",
+      "2514 rows, 16 columns\n",
+      "Date: 20170720\n",
+      "2668 rows, 16 columns\n",
+      "Date: 20170721\n",
+      "2427 rows, 16 columns\n",
+      "Date: 20170722\n",
+      "1724 rows, 16 columns\n",
+      "Date: 20170723\n",
+      "1966 rows, 16 columns\n",
+      "Date: 20170724\n",
+      "2436 rows, 16 columns\n",
+      "Date: 20170725\n",
+      "2631 rows, 16 columns\n",
+      "Date: 20170726\n",
+      "2725 rows, 16 columns\n",
+      "Date: 20170727\n",
+      "2529 rows, 16 columns\n",
+      "Date: 20170728\n",
+      "2433 rows, 16 columns\n",
+      "Date: 20170729\n",
+      "1597 rows, 16 columns\n",
+      "Date: 20170730\n",
+      "1799 rows, 16 columns\n",
+      "Date: 20170731\n",
+      "2620 rows, 16 columns\n",
+      "Date: 20170801\n",
+      "2556 rows, 16 columns\n"
+     ]
+    }
+   ],
+   "source": [
+    "from datetime import timedelta, date\n",
+    "\n",
+    "def daterange(start_date, end_date):\n",
+    "    for n in range(int ((end_date - start_date).days)):\n",
+    "        yield start_date + timedelta(n)\n",
+    "\n",
+    "start_date = date(2017, 7, 18)\n",
+    "end_date = date(2017, 8, 2)\n",
+    "\n",
+    "for single_date in daterange(start_date, end_date):\n",
+    "    query = \"SELECT * FROM `bigquery-public-data.google_analytics_sample.ga_sessions_\" + single_date.strftime(\"%Y%m%d\") + \"`\"\n",
+    "    result = bq.query(query).to_dataframe()\n",
+    "    filename = single_date.strftime(\"%Y%m%d\") + \".json\"\n",
+    "    result.to_json(\"/home/shengxu/input/Group/\"+filename)\n",
+    "    print(\"Date: \" + single_date.strftime(\"%Y%m%d\"))\n",
+    "    print(str(result.shape[0]) + \" rows, \" + str(result.shape[1]) + \" columns\")"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  }
+ ],
+ "metadata": {
+  "kernelspec": {
+   "display_name": "Python 3",
+   "language": "python",
+   "name": "python3"
+  },
+  "language_info": {
+   "codemirror_mode": {
+    "name": "ipython",
+    "version": 3
+   },
+   "file_extension": ".py",
+   "mimetype": "text/x-python",
+   "name": "python",
+   "nbconvert_exporter": "python",
+   "pygments_lexer": "ipython3",
+   "version": "3.7.3"
+  }
+ },
+ "nbformat": 4,
+ "nbformat_minor": 2
+}

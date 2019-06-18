@@ -1,0 +1,2134 @@
+,Unnamed: 0,month,date,deviceCategory,totalTransactionRevenue,isTrsacationRevenue,channelGrouping,continent,bounces
+0,0,201704,20170423,desktop,0.0,0.0,Social,Asia,0.0
+1,1,201704,20170423,desktop,0.0,0.0,Direct,Americas,0.0
+2,2,201704,20170423,mobile,0.0,0.0,Social,Asia,0.0
+3,3,201704,20170423,desktop,0.0,0.0,Organic Search,Europe,0.0
+4,4,201704,20170423,mobile,0.0,0.0,Paid Search,Americas,1.0
+5,5,201704,20170423,mobile,0.0,0.0,Organic Search,Americas,1.0
+6,6,201704,20170423,mobile,0.0,0.0,Direct,Americas,1.0
+7,7,201704,20170423,desktop,0.0,0.0,Direct,Americas,1.0
+8,8,201704,20170423,desktop,0.0,0.0,Affiliates,Europe,1.0
+9,9,201704,20170423,desktop,0.0,0.0,Affiliates,Oceania,1.0
+10,10,201704,20170423,desktop,0.0,0.0,Referral,Americas,1.0
+11,11,201704,20170423,desktop,0.0,0.0,Affiliates,Asia,1.0
+12,12,201704,20170423,desktop,0.0,0.0,Organic Search,Americas,1.0
+13,13,201704,20170423,desktop,0.0,0.0,Affiliates,Europe,1.0
+14,14,201704,20170423,mobile,0.0,0.0,Organic Search,Americas,0.0
+15,15,201704,20170423,mobile,0.0,0.0,Direct,Americas,1.0
+16,16,201704,20170423,desktop,0.0,0.0,Referral,Asia,1.0
+17,17,201704,20170423,mobile,0.0,0.0,Direct,Americas,1.0
+18,18,201704,20170423,desktop,0.0,0.0,Affiliates,Europe,1.0
+19,19,201704,20170423,desktop,0.0,0.0,Referral,Americas,1.0
+20,20,201704,20170423,tablet,0.0,0.0,Direct,Americas,1.0
+21,21,201704,20170423,desktop,0.0,0.0,Direct,Americas,1.0
+22,22,201704,20170423,desktop,0.0,0.0,Referral,Americas,1.0
+23,23,201704,20170423,desktop,0.0,0.0,Direct,Asia,1.0
+24,24,201704,20170423,desktop,0.0,0.0,Direct,Asia,1.0
+25,25,201704,20170423,desktop,0.0,0.0,Social,Europe,0.0
+26,26,201704,20170423,mobile,0.0,0.0,Display,Americas,1.0
+27,27,201704,20170423,mobile,0.0,0.0,Organic Search,Americas,1.0
+28,28,201704,20170423,mobile,0.0,0.0,Direct,Americas,1.0
+29,29,201704,20170423,mobile,0.0,0.0,Direct,Asia,1.0
+30,30,201704,20170423,desktop,0.0,0.0,Referral,Americas,1.0
+31,31,201704,20170423,desktop,0.0,0.0,Direct,Americas,1.0
+32,32,201704,20170423,desktop,0.0,0.0,Referral,Americas,1.0
+33,33,201704,20170423,mobile,0.0,0.0,Direct,Americas,1.0
+34,34,201704,20170423,desktop,0.0,0.0,Direct,Americas,1.0
+35,35,201704,20170423,mobile,0.0,0.0,Paid Search,Americas,1.0
+36,36,201704,20170423,desktop,176.25,1.0,Organic Search,Americas,0.0
+37,37,201704,20170423,desktop,0.0,0.0,Direct,Europe,1.0
+38,38,201704,20170423,desktop,0.0,0.0,Direct,Asia,1.0
+39,39,201704,20170423,desktop,0.0,0.0,Organic Search,Europe,1.0
+40,40,201704,20170423,desktop,0.0,0.0,Affiliates,Oceania,1.0
+41,41,201704,20170423,mobile,0.0,0.0,Direct,Americas,1.0
+42,42,201704,20170423,desktop,0.0,0.0,Referral,Asia,1.0
+43,43,201704,20170423,desktop,0.0,0.0,Organic Search,Americas,1.0
+44,45,201704,20170423,desktop,0.0,0.0,Affiliates,Europe,1.0
+45,46,201704,20170423,desktop,0.0,0.0,Direct,Europe,1.0
+46,47,201704,20170423,mobile,0.0,0.0,Organic Search,Americas,1.0
+47,48,201704,20170423,desktop,0.0,0.0,Paid Search,Americas,1.0
+48,49,201704,20170423,desktop,0.0,0.0,Affiliates,Americas,1.0
+49,50,201704,20170423,desktop,0.0,0.0,Affiliates,Asia,1.0
+50,51,201704,20170423,desktop,0.0,0.0,Organic Search,Americas,1.0
+51,52,201704,20170423,mobile,0.0,0.0,Direct,Europe,1.0
+52,53,201704,20170423,mobile,0.0,0.0,Organic Search,Americas,1.0
+53,54,201704,20170423,desktop,0.0,0.0,Direct,Americas,1.0
+54,55,201704,20170423,desktop,0.0,0.0,Organic Search,Americas,1.0
+55,56,201704,20170423,desktop,0.0,0.0,Organic Search,Americas,1.0
+56,57,201704,20170423,desktop,0.0,0.0,Direct,Americas,1.0
+57,58,201704,20170423,desktop,0.0,0.0,Affiliates,Asia,1.0
+58,59,201704,20170423,mobile,0.0,0.0,Organic Search,Asia,1.0
+59,60,201704,20170423,desktop,0.0,0.0,Affiliates,Europe,1.0
+60,61,201704,20170423,tablet,0.0,0.0,Referral,Europe,1.0
+61,62,201704,20170423,desktop,0.0,0.0,Referral,Asia,1.0
+62,63,201704,20170423,desktop,0.0,0.0,Paid Search,Asia,1.0
+63,64,201704,20170423,desktop,0.0,0.0,Referral,Asia,1.0
+64,66,201704,20170423,desktop,0.0,0.0,Referral,Asia,1.0
+65,67,201704,20170423,desktop,0.0,0.0,Direct,Americas,1.0
+66,68,201704,20170423,desktop,0.0,0.0,Organic Search,Asia,1.0
+67,69,201704,20170423,mobile,0.0,0.0,Direct,Americas,1.0
+68,70,201704,20170423,desktop,0.0,0.0,Direct,Oceania,1.0
+69,71,201704,20170423,desktop,0.0,0.0,Referral,Europe,1.0
+70,72,201704,20170423,desktop,0.0,0.0,Referral,Americas,1.0
+71,73,201704,20170423,desktop,0.0,0.0,Direct,Americas,1.0
+72,74,201704,20170423,desktop,0.0,0.0,Referral,Europe,1.0
+73,75,201704,20170423,desktop,0.0,0.0,Paid Search,Americas,1.0
+74,76,201704,20170423,desktop,0.0,0.0,Affiliates,Asia,1.0
+75,77,201704,20170423,desktop,0.0,0.0,Direct,Americas,1.0
+76,78,201704,20170423,desktop,0.0,0.0,Organic Search,Europe,1.0
+77,79,201704,20170423,desktop,0.0,0.0,Referral,Europe,1.0
+78,80,201704,20170423,mobile,0.0,0.0,Organic Search,Americas,1.0
+79,81,201704,20170423,desktop,0.0,0.0,Organic Search,Europe,1.0
+80,82,201704,20170423,desktop,0.0,0.0,Direct,Americas,1.0
+81,83,201704,20170423,mobile,0.0,0.0,Organic Search,Europe,1.0
+82,84,201704,20170423,desktop,0.0,0.0,Referral,Asia,1.0
+83,85,201704,20170423,desktop,0.0,0.0,Paid Search,Americas,1.0
+84,86,201704,20170423,desktop,0.0,0.0,Organic Search,Americas,1.0
+85,87,201704,20170423,tablet,0.0,0.0,Organic Search,Americas,1.0
+86,88,201704,20170423,mobile,0.0,0.0,Referral,Americas,1.0
+87,89,201704,20170423,tablet,0.0,0.0,Paid Search,Americas,1.0
+88,90,201704,20170423,desktop,0.0,0.0,Affiliates,Asia,1.0
+89,91,201704,20170423,desktop,0.0,0.0,Organic Search,Americas,1.0
+90,92,201704,20170423,desktop,0.0,0.0,Referral,Americas,1.0
+91,93,201704,20170423,desktop,0.0,0.0,Affiliates,Asia,1.0
+92,94,201704,20170423,desktop,0.0,0.0,Social,Africa,0.0
+93,95,201704,20170423,mobile,0.0,0.0,Organic Search,Asia,0.0
+94,96,201704,20170423,mobile,0.0,0.0,Organic Search,Americas,0.0
+95,97,201704,20170423,desktop,0.0,0.0,Social,Asia,0.0
+96,98,201704,20170423,desktop,0.0,0.0,Social,Asia,0.0
+97,99,201704,20170423,desktop,0.0,0.0,Social,Africa,0.0
+98,100,201704,20170423,mobile,0.0,0.0,Organic Search,Asia,0.0
+99,101,201704,20170423,desktop,0.0,0.0,Referral,Americas,0.0
+100,102,201704,20170423,mobile,0.0,0.0,Direct,Americas,1.0
+101,103,201704,20170423,desktop,0.0,0.0,Social,Europe,0.0
+102,104,201704,20170423,desktop,0.0,0.0,Social,Europe,0.0
+103,105,201704,20170423,desktop,0.0,0.0,Social,Europe,0.0
+104,106,201704,20170423,mobile,0.0,0.0,Direct,Asia,0.0
+105,107,201704,20170423,desktop,0.0,0.0,Organic Search,Oceania,0.0
+106,108,201704,20170423,desktop,0.0,0.0,Social,Asia,0.0
+107,109,201704,20170423,desktop,0.0,0.0,Social,Asia,0.0
+108,110,201704,20170423,desktop,0.0,0.0,Organic Search,Americas,0.0
+109,111,201704,20170423,desktop,0.0,0.0,Social,Europe,0.0
+110,112,201704,20170423,desktop,0.0,0.0,Social,Europe,0.0
+111,113,201704,20170423,desktop,0.0,0.0,Organic Search,Europe,0.0
+112,114,201704,20170423,mobile,0.0,0.0,Organic Search,Americas,1.0
+113,115,201704,20170423,desktop,0.0,0.0,Organic Search,Americas,0.0
+114,116,201704,20170423,desktop,0.0,0.0,Social,Europe,0.0
+115,117,201704,20170423,desktop,0.0,0.0,Organic Search,Asia,0.0
+116,118,201704,20170423,tablet,0.0,0.0,Social,Asia,0.0
+117,119,201704,20170423,desktop,0.0,0.0,Organic Search,Asia,0.0
+118,120,201704,20170423,desktop,0.0,0.0,Social,Europe,0.0
+119,121,201704,20170423,desktop,0.0,0.0,Organic Search,Oceania,0.0
+120,122,201704,20170423,mobile,0.0,0.0,Organic Search,Americas,0.0
+121,123,201704,20170423,desktop,0.0,0.0,Organic Search,Europe,0.0
+122,124,201704,20170423,desktop,0.0,0.0,Organic Search,Americas,0.0
+123,125,201704,20170423,mobile,0.0,0.0,Organic Search,Americas,1.0
+124,126,201704,20170423,mobile,0.0,0.0,Social,Asia,0.0
+125,127,201704,20170423,desktop,0.0,0.0,Social,Asia,0.0
+126,128,201704,20170423,desktop,0.0,0.0,Social,Europe,0.0
+127,129,201704,20170423,desktop,0.0,0.0,Organic Search,Americas,1.0
+128,130,201704,20170423,desktop,0.0,0.0,Social,Asia,0.0
+129,131,201704,20170423,desktop,0.0,0.0,Social,Europe,0.0
+130,132,201704,20170423,desktop,0.0,0.0,Organic Search,Europe,0.0
+131,133,201704,20170423,mobile,0.0,0.0,Organic Search,Africa,0.0
+132,134,201704,20170423,desktop,0.0,0.0,Organic Search,Africa,0.0
+133,135,201704,20170423,desktop,0.0,0.0,Social,Asia,0.0
+134,136,201704,20170423,desktop,0.0,0.0,Organic Search,Europe,1.0
+135,137,201704,20170423,mobile,0.0,0.0,Social,Africa,0.0
+136,138,201704,20170423,desktop,0.0,0.0,Organic Search,Americas,0.0
+137,139,201704,20170423,mobile,0.0,0.0,Direct,Asia,0.0
+138,140,201704,20170423,desktop,0.0,0.0,Organic Search,Asia,1.0
+139,141,201704,20170423,desktop,0.0,0.0,Organic Search,Europe,1.0
+140,142,201704,20170423,desktop,0.0,0.0,Social,Asia,0.0
+141,143,201704,20170423,desktop,0.0,0.0,Organic Search,Asia,0.0
+142,144,201704,20170423,mobile,0.0,0.0,Social,Asia,0.0
+143,145,201704,20170423,desktop,0.0,0.0,Social,Asia,0.0
+144,146,201704,20170423,desktop,0.0,0.0,Organic Search,Americas,0.0
+145,147,201704,20170423,desktop,0.0,0.0,Organic Search,Asia,1.0
+146,148,201704,20170423,mobile,0.0,0.0,Direct,Europe,0.0
+147,149,201704,20170423,mobile,0.0,0.0,Organic Search,Europe,0.0
+148,150,201704,20170423,desktop,0.0,0.0,Social,Americas,0.0
+149,151,201704,20170423,desktop,0.0,0.0,Social,Asia,0.0
+150,152,201704,20170423,desktop,0.0,0.0,Social,Asia,0.0
+151,153,201704,20170423,desktop,0.0,0.0,Social,Europe,0.0
+152,154,201704,20170423,desktop,0.0,0.0,Organic Search,Americas,0.0
+153,155,201704,20170423,desktop,0.0,0.0,Social,Europe,0.0
+154,156,201704,20170423,mobile,0.0,0.0,Social,Asia,0.0
+155,157,201704,20170423,desktop,0.0,0.0,Social,Europe,0.0
+156,158,201704,20170423,mobile,0.0,0.0,Organic Search,Americas,1.0
+157,159,201704,20170423,mobile,0.0,0.0,Organic Search,Europe,0.0
+158,160,201704,20170423,desktop,0.0,0.0,Organic Search,Europe,0.0
+159,161,201704,20170423,mobile,0.0,0.0,Social,Asia,0.0
+160,162,201704,20170423,mobile,0.0,0.0,Organic Search,Europe,0.0
+161,163,201704,20170423,desktop,0.0,0.0,Organic Search,Americas,0.0
+162,164,201704,20170423,desktop,0.0,0.0,Social,Asia,0.0
+163,165,201704,20170423,desktop,0.0,0.0,Organic Search,Europe,0.0
+164,166,201704,20170423,mobile,0.0,0.0,Social,Asia,0.0
+165,167,201704,20170423,desktop,0.0,0.0,Organic Search,Europe,0.0
+166,168,201704,20170423,desktop,0.0,0.0,Social,Americas,0.0
+167,169,201704,20170423,mobile,0.0,0.0,Organic Search,Europe,1.0
+168,170,201704,20170423,desktop,0.0,0.0,Social,Asia,0.0
+169,171,201704,20170423,mobile,0.0,0.0,Social,Americas,0.0
+170,172,201704,20170423,desktop,0.0,0.0,Referral,Americas,0.0
+171,173,201704,20170423,desktop,0.0,0.0,Organic Search,Americas,0.0
+172,174,201704,20170423,desktop,0.0,0.0,Organic Search,Americas,0.0
+173,175,201704,20170423,desktop,0.0,0.0,Organic Search,Americas,0.0
+174,176,201704,20170423,mobile,0.0,0.0,Social,Europe,0.0
+175,177,201704,20170423,desktop,0.0,0.0,Organic Search,Americas,0.0
+176,178,201704,20170423,mobile,0.0,0.0,Social,Asia,0.0
+177,179,201704,20170423,mobile,0.0,0.0,Social,Europe,0.0
+178,180,201704,20170423,mobile,0.0,0.0,Organic Search,Africa,1.0
+179,181,201704,20170423,mobile,0.0,0.0,Referral,Europe,0.0
+180,182,201704,20170423,desktop,0.0,0.0,Organic Search,Americas,0.0
+181,183,201704,20170423,desktop,0.0,0.0,Social,Europe,0.0
+182,184,201704,20170423,desktop,0.0,0.0,Social,Europe,0.0
+183,185,201704,20170423,desktop,0.0,0.0,Organic Search,Asia,0.0
+184,186,201704,20170423,mobile,0.0,0.0,Direct,Americas,0.0
+185,187,201704,20170423,desktop,0.0,0.0,Organic Search,Americas,0.0
+186,188,201704,20170423,desktop,0.0,0.0,Organic Search,Americas,0.0
+187,189,201704,20170423,desktop,0.0,0.0,Direct,Americas,0.0
+188,190,201704,20170423,desktop,0.0,0.0,Organic Search,Americas,0.0
+189,191,201704,20170423,mobile,0.0,0.0,Organic Search,Oceania,1.0
+190,192,201704,20170423,desktop,0.0,0.0,Organic Search,Americas,0.0
+191,193,201704,20170423,mobile,0.0,0.0,Referral,Americas,0.0
+192,194,201704,20170423,tablet,0.0,0.0,Social,Americas,0.0
+193,195,201704,20170423,desktop,0.0,0.0,Organic Search,Americas,0.0
+194,196,201704,20170423,mobile,0.0,0.0,Direct,Asia,0.0
+195,197,201704,20170423,desktop,0.0,0.0,Referral,Americas,0.0
+196,198,201704,20170423,desktop,0.0,0.0,Referral,Americas,0.0
+197,199,201704,20170423,desktop,0.0,0.0,Referral,Americas,0.0
+198,200,201704,20170423,mobile,0.0,0.0,Direct,Americas,0.0
+199,201,201704,20170423,mobile,0.0,0.0,Paid Search,Asia,0.0
+200,202,201704,20170423,tablet,0.0,0.0,Direct,Americas,1.0
+201,203,201704,20170423,desktop,0.0,0.0,Referral,Americas,0.0
+202,204,201704,20170423,mobile,0.0,0.0,Direct,Americas,0.0
+203,205,201704,20170423,mobile,0.0,0.0,Organic Search,Europe,0.0
+204,206,201704,20170423,desktop,0.0,0.0,Affiliates,Americas,0.0
+205,207,201704,20170423,mobile,0.0,0.0,Direct,Americas,0.0
+206,208,201704,20170423,desktop,0.0,0.0,Referral,Americas,0.0
+207,209,201704,20170423,mobile,0.0,0.0,Organic Search,Americas,1.0
+208,210,201704,20170423,tablet,0.0,0.0,Direct,Americas,0.0
+209,211,201704,20170423,desktop,0.0,0.0,Direct,Americas,0.0
+210,212,201704,20170423,desktop,0.0,0.0,Social,Europe,1.0
+211,213,201704,20170423,mobile,0.0,0.0,Organic Search,Asia,1.0
+212,214,201704,20170423,mobile,0.0,0.0,Direct,Americas,0.0
+213,215,201704,20170423,desktop,0.0,0.0,Referral,Europe,0.0
+214,216,201704,20170423,desktop,0.0,0.0,Direct,Americas,0.0
+215,217,201704,20170423,mobile,0.0,0.0,Paid Search,Americas,0.0
+216,218,201704,20170423,desktop,0.0,0.0,Referral,Americas,0.0
+217,219,201704,20170423,desktop,0.0,0.0,Organic Search,Americas,0.0
+218,220,201704,20170423,mobile,0.0,0.0,Organic Search,Americas,0.0
+219,221,201704,20170423,desktop,0.0,0.0,Referral,Europe,0.0
+220,222,201704,20170423,desktop,0.0,0.0,Referral,Americas,0.0
+221,223,201704,20170423,desktop,0.0,0.0,Referral,Americas,0.0
+222,224,201704,20170423,desktop,0.0,0.0,Organic Search,Americas,0.0
+223,225,201704,20170423,desktop,0.0,0.0,Organic Search,Americas,1.0
+224,226,201704,20170423,mobile,0.0,0.0,Referral,Americas,0.0
+225,227,201704,20170423,mobile,0.0,0.0,Organic Search,Asia,0.0
+226,228,201704,20170423,tablet,0.0,0.0,Direct,Europe,0.0
+227,229,201704,20170423,desktop,0.0,0.0,Social,Europe,0.0
+228,230,201704,20170423,desktop,0.0,0.0,Organic Search,Europe,0.0
+229,231,201704,20170423,desktop,0.0,0.0,Organic Search,Europe,0.0
+230,232,201704,20170423,mobile,0.0,0.0,Organic Search,Europe,0.0
+231,233,201704,20170423,mobile,0.0,0.0,Social,Europe,0.0
+232,234,201704,20170423,desktop,0.0,0.0,Social,Africa,0.0
+233,235,201704,20170423,desktop,0.0,0.0,Organic Search,Asia,0.0
+234,236,201704,20170423,desktop,0.0,0.0,Direct,Asia,1.0
+235,237,201704,20170423,mobile,0.0,0.0,Organic Search,Europe,0.0
+236,238,201704,20170423,mobile,0.0,0.0,Social,Americas,0.0
+237,239,201704,20170423,desktop,0.0,0.0,Organic Search,Europe,0.0
+238,240,201704,20170423,desktop,0.0,0.0,Organic Search,Americas,0.0
+239,241,201704,20170423,desktop,0.0,0.0,Social,Asia,0.0
+240,242,201704,20170423,desktop,0.0,0.0,Organic Search,Americas,0.0
+241,243,201704,20170423,desktop,0.0,0.0,Organic Search,Americas,0.0
+242,244,201704,20170423,mobile,0.0,0.0,Organic Search,Asia,0.0
+243,245,201704,20170423,mobile,0.0,0.0,Referral,Americas,0.0
+244,246,201704,20170423,desktop,0.0,0.0,Referral,Americas,0.0
+245,247,201704,20170423,desktop,0.0,0.0,Direct,Americas,1.0
+246,248,201704,20170423,desktop,0.0,0.0,Organic Search,Americas,0.0
+247,249,201704,20170423,desktop,0.0,0.0,Referral,Americas,0.0
+248,250,201704,20170423,desktop,0.0,0.0,Referral,Americas,0.0
+249,251,201704,20170423,mobile,0.0,0.0,Organic Search,Americas,0.0
+250,252,201704,20170423,mobile,0.0,0.0,Direct,Africa,0.0
+251,253,201704,20170423,desktop,0.0,0.0,Referral,Americas,0.0
+252,254,201704,20170423,desktop,0.0,0.0,Referral,Americas,0.0
+253,255,201704,20170423,mobile,0.0,0.0,Organic Search,Americas,0.0
+254,256,201704,20170423,desktop,0.0,0.0,Social,Asia,0.0
+255,257,201704,20170423,mobile,0.0,0.0,Social,Europe,0.0
+256,258,201704,20170423,desktop,0.0,0.0,Direct,Europe,1.0
+257,259,201704,20170423,mobile,0.0,0.0,Organic Search,Asia,0.0
+258,260,201704,20170423,mobile,0.0,0.0,Organic Search,Europe,0.0
+259,261,201704,20170423,desktop,0.0,0.0,Organic Search,Europe,0.0
+260,262,201704,20170423,desktop,0.0,0.0,Organic Search,Americas,0.0
+261,263,201704,20170423,mobile,0.0,0.0,Social,Americas,0.0
+262,264,201704,20170423,desktop,0.0,0.0,Affiliates,Europe,0.0
+263,265,201704,20170423,desktop,0.0,0.0,Referral,Americas,0.0
+264,266,201704,20170423,desktop,0.0,0.0,Organic Search,Asia,0.0
+265,267,201704,20170423,mobile,0.0,0.0,Organic Search,Americas,0.0
+266,268,201704,20170423,mobile,0.0,0.0,Social,Asia,0.0
+267,269,201704,20170423,desktop,0.0,0.0,Social,Europe,1.0
+268,270,201704,20170423,mobile,0.0,0.0,Organic Search,Americas,0.0
+269,271,201704,20170423,mobile,0.0,0.0,Social,Europe,0.0
+270,272,201704,20170423,mobile,0.0,0.0,Referral,Asia,0.0
+271,273,201704,20170423,mobile,0.0,0.0,Referral,Americas,0.0
+272,274,201704,20170423,desktop,0.0,0.0,Direct,Americas,0.0
+273,275,201704,20170423,mobile,0.0,0.0,Referral,Asia,0.0
+274,276,201704,20170423,desktop,0.0,0.0,Referral,Americas,0.0
+275,277,201704,20170423,desktop,0.0,0.0,Referral,Europe,0.0
+276,278,201704,20170423,mobile,0.0,0.0,Direct,Americas,0.0
+277,279,201704,20170423,desktop,0.0,0.0,Organic Search,Asia,0.0
+278,280,201704,20170423,tablet,0.0,0.0,Direct,Americas,1.0
+279,281,201704,20170423,desktop,0.0,0.0,Social,Europe,0.0
+280,282,201704,20170423,desktop,0.0,0.0,Referral,Americas,0.0
+281,283,201704,20170423,desktop,0.0,0.0,Organic Search,Asia,0.0
+282,284,201704,20170423,desktop,0.0,0.0,Referral,Americas,0.0
+283,285,201704,20170423,mobile,0.0,0.0,Organic Search,Americas,0.0
+284,286,201704,20170423,desktop,0.0,0.0,Referral,Americas,0.0
+285,287,201704,20170423,desktop,0.0,0.0,Referral,Americas,0.0
+286,288,201704,20170423,tablet,0.0,0.0,Organic Search,Asia,1.0
+287,289,201704,20170423,desktop,0.0,0.0,Direct,Oceania,1.0
+288,290,201704,20170423,desktop,0.0,0.0,Social,Americas,1.0
+289,291,201704,20170423,desktop,0.0,0.0,Organic Search,Europe,1.0
+290,292,201704,20170423,tablet,0.0,0.0,Direct,Americas,1.0
+291,293,201704,20170423,desktop,0.0,0.0,Social,Americas,1.0
+292,294,201704,20170423,desktop,0.0,0.0,Direct,Americas,1.0
+293,295,201704,20170423,desktop,0.0,0.0,Organic Search,Asia,1.0
+294,296,201704,20170423,mobile,0.0,0.0,Organic Search,Americas,1.0
+295,297,201704,20170423,desktop,0.0,0.0,Social,Europe,1.0
+296,298,201704,20170423,mobile,0.0,0.0,Organic Search,Americas,1.0
+297,299,201704,20170423,mobile,0.0,0.0,Organic Search,Americas,1.0
+298,300,201704,20170423,desktop,0.0,0.0,Direct,Asia,1.0
+299,301,201704,20170423,mobile,0.0,0.0,Organic Search,Americas,1.0
+300,302,201704,20170423,desktop,0.0,0.0,Organic Search,Americas,1.0
+301,303,201704,20170423,mobile,0.0,0.0,Organic Search,Americas,1.0
+302,304,201704,20170423,desktop,0.0,0.0,Organic Search,Europe,1.0
+303,305,201704,20170423,mobile,0.0,0.0,Organic Search,Americas,1.0
+304,306,201704,20170423,mobile,0.0,0.0,Organic Search,Americas,1.0
+305,307,201704,20170423,desktop,0.0,0.0,Social,Europe,1.0
+306,308,201704,20170423,mobile,0.0,0.0,Organic Search,Asia,1.0
+307,309,201704,20170423,mobile,0.0,0.0,Direct,Europe,1.0
+308,310,201704,20170423,mobile,0.0,0.0,Direct,Americas,1.0
+309,311,201704,20170423,mobile,0.0,0.0,Organic Search,Asia,1.0
+310,312,201704,20170423,desktop,0.0,0.0,Organic Search,Americas,1.0
+311,313,201704,20170423,desktop,0.0,0.0,Organic Search,Europe,1.0
+312,314,201704,20170423,desktop,0.0,0.0,Organic Search,Americas,1.0
+313,315,201704,20170423,mobile,0.0,0.0,Direct,Asia,1.0
+314,316,201704,20170423,desktop,0.0,0.0,Organic Search,Americas,1.0
+315,317,201704,20170423,desktop,0.0,0.0,Organic Search,Asia,1.0
+316,318,201704,20170423,desktop,0.0,0.0,Organic Search,Asia,1.0
+317,319,201704,20170423,mobile,0.0,0.0,Organic Search,Asia,1.0
+318,320,201704,20170423,desktop,0.0,0.0,Organic Search,Americas,1.0
+319,321,201704,20170423,mobile,0.0,0.0,Organic Search,Asia,1.0
+320,322,201704,20170423,desktop,0.0,0.0,Organic Search,Americas,1.0
+321,323,201704,20170423,desktop,0.0,0.0,Organic Search,Americas,1.0
+322,324,201704,20170423,mobile,0.0,0.0,Organic Search,Americas,1.0
+323,325,201704,20170423,desktop,0.0,0.0,Organic Search,Asia,1.0
+324,326,201704,20170423,mobile,0.0,0.0,Direct,Asia,1.0
+325,327,201704,20170423,desktop,0.0,0.0,Organic Search,Asia,1.0
+326,328,201704,20170423,mobile,0.0,0.0,Organic Search,Asia,1.0
+327,329,201704,20170423,mobile,0.0,0.0,Direct,Asia,1.0
+328,330,201704,20170423,desktop,0.0,0.0,Referral,Americas,1.0
+329,331,201704,20170423,desktop,0.0,0.0,Organic Search,Europe,1.0
+330,332,201704,20170423,desktop,0.0,0.0,Organic Search,Europe,1.0
+331,333,201704,20170423,mobile,0.0,0.0,Organic Search,Americas,1.0
+332,334,201704,20170423,mobile,0.0,0.0,Organic Search,Americas,1.0
+333,335,201704,20170423,desktop,0.0,0.0,Organic Search,Americas,0.0
+334,336,201704,20170423,tablet,0.0,0.0,Organic Search,Americas,1.0
+335,337,201704,20170423,mobile,0.0,0.0,Social,Americas,1.0
+336,338,201704,20170423,mobile,0.0,0.0,Organic Search,Americas,1.0
+337,339,201704,20170423,desktop,0.0,0.0,Organic Search,Asia,1.0
+338,340,201704,20170423,mobile,0.0,0.0,Direct,Americas,1.0
+339,341,201704,20170423,desktop,0.0,0.0,Organic Search,Americas,1.0
+340,342,201704,20170423,mobile,0.0,0.0,Organic Search,Americas,1.0
+341,343,201704,20170423,desktop,0.0,0.0,Organic Search,Asia,1.0
+342,344,201704,20170423,desktop,0.0,0.0,Paid Search,Americas,1.0
+343,345,201704,20170423,mobile,0.0,0.0,Organic Search,Europe,1.0
+344,346,201704,20170423,desktop,0.0,0.0,Direct,Africa,1.0
+345,347,201704,20170423,desktop,0.0,0.0,Organic Search,Americas,1.0
+346,348,201704,20170423,mobile,0.0,0.0,Paid Search,Americas,1.0
+347,349,201704,20170423,desktop,0.0,0.0,Organic Search,Americas,1.0
+348,350,201704,20170423,mobile,0.0,0.0,Organic Search,Asia,1.0
+349,351,201704,20170423,desktop,0.0,0.0,Organic Search,Americas,1.0
+350,352,201704,20170423,desktop,0.0,0.0,Organic Search,Europe,1.0
+351,353,201704,20170423,mobile,0.0,0.0,Organic Search,Europe,1.0
+352,354,201704,20170423,mobile,0.0,0.0,Organic Search,Americas,1.0
+353,355,201704,20170423,mobile,0.0,0.0,Organic Search,Europe,1.0
+354,356,201704,20170423,mobile,0.0,0.0,Organic Search,Americas,1.0
+355,357,201704,20170423,mobile,0.0,0.0,Organic Search,Americas,1.0
+356,358,201704,20170423,mobile,0.0,0.0,Organic Search,Europe,1.0
+357,359,201704,20170423,mobile,0.0,0.0,Organic Search,Americas,1.0
+358,360,201704,20170423,desktop,0.0,0.0,Organic Search,Asia,1.0
+359,361,201704,20170423,mobile,0.0,0.0,Organic Search,Americas,1.0
+360,362,201704,20170423,mobile,0.0,0.0,Organic Search,Asia,1.0
+361,363,201704,20170423,desktop,0.0,0.0,Organic Search,Americas,1.0
+362,364,201704,20170423,desktop,0.0,0.0,Organic Search,Americas,1.0
+363,365,201704,20170423,desktop,0.0,0.0,Organic Search,Americas,1.0
+364,366,201704,20170423,mobile,0.0,0.0,Organic Search,Asia,1.0
+365,367,201704,20170423,mobile,0.0,0.0,Organic Search,Americas,1.0
+366,368,201704,20170423,desktop,0.0,0.0,Organic Search,Africa,1.0
+367,369,201704,20170423,desktop,0.0,0.0,Organic Search,Europe,1.0
+368,370,201704,20170423,desktop,0.0,0.0,Organic Search,Americas,1.0
+369,371,201704,20170423,mobile,0.0,0.0,Organic Search,Europe,1.0
+370,372,201704,20170423,desktop,0.0,0.0,Organic Search,Americas,1.0
+371,373,201704,20170423,mobile,0.0,0.0,Organic Search,Europe,1.0
+372,374,201704,20170423,mobile,0.0,0.0,Organic Search,Europe,1.0
+373,375,201704,20170423,mobile,0.0,0.0,Direct,Europe,1.0
+374,376,201704,20170423,desktop,0.0,0.0,Organic Search,Asia,1.0
+375,377,201704,20170423,mobile,0.0,0.0,Direct,Asia,1.0
+376,378,201704,20170423,mobile,0.0,0.0,Organic Search,Europe,1.0
+377,379,201704,20170423,mobile,0.0,0.0,Organic Search,Asia,1.0
+378,380,201704,20170423,mobile,0.0,0.0,Organic Search,Europe,1.0
+379,381,201704,20170423,mobile,0.0,0.0,Organic Search,Asia,1.0
+380,382,201704,20170423,desktop,0.0,0.0,Organic Search,Europe,1.0
+381,383,201704,20170423,mobile,0.0,0.0,Organic Search,Europe,1.0
+382,384,201704,20170423,desktop,0.0,0.0,Organic Search,Americas,1.0
+383,385,201704,20170423,desktop,0.0,0.0,Organic Search,Americas,1.0
+384,386,201704,20170423,desktop,0.0,0.0,Organic Search,Americas,1.0
+385,387,201704,20170423,mobile,0.0,0.0,Organic Search,Europe,1.0
+386,388,201704,20170423,desktop,0.0,0.0,Organic Search,Americas,1.0
+387,389,201704,20170423,mobile,0.0,0.0,Organic Search,Americas,1.0
+388,390,201704,20170423,desktop,0.0,0.0,Organic Search,Europe,1.0
+389,391,201704,20170423,mobile,0.0,0.0,Direct,Americas,1.0
+390,392,201704,20170423,desktop,0.0,0.0,Organic Search,Europe,1.0
+391,393,201704,20170423,mobile,0.0,0.0,Organic Search,Americas,1.0
+392,394,201704,20170423,desktop,0.0,0.0,Organic Search,Americas,1.0
+393,395,201704,20170423,desktop,0.0,0.0,Organic Search,Asia,1.0
+394,396,201704,20170423,desktop,0.0,0.0,Organic Search,Americas,1.0
+395,397,201704,20170423,mobile,0.0,0.0,Organic Search,Americas,1.0
+396,398,201704,20170423,mobile,0.0,0.0,Organic Search,Europe,1.0
+397,399,201704,20170423,desktop,0.0,0.0,Social,Asia,1.0
+398,400,201704,20170423,desktop,0.0,0.0,Organic Search,Europe,1.0
+399,401,201704,20170423,mobile,0.0,0.0,Organic Search,Asia,1.0
+400,402,201704,20170423,mobile,0.0,0.0,Organic Search,Americas,1.0
+401,403,201704,20170423,desktop,0.0,0.0,Organic Search,Europe,1.0
+402,404,201704,20170423,desktop,0.0,0.0,Organic Search,Europe,1.0
+403,405,201704,20170423,desktop,0.0,0.0,Organic Search,Oceania,1.0
+404,406,201704,20170423,tablet,0.0,0.0,Organic Search,Americas,1.0
+405,407,201704,20170423,desktop,0.0,0.0,Organic Search,Europe,1.0
+406,408,201704,20170423,mobile,0.0,0.0,Organic Search,Europe,1.0
+407,409,201704,20170423,tablet,0.0,0.0,Organic Search,Europe,1.0
+408,410,201704,20170423,tablet,0.0,0.0,Organic Search,Europe,1.0
+409,411,201704,20170423,desktop,0.0,0.0,Organic Search,Americas,1.0
+410,412,201704,20170423,mobile,0.0,0.0,Organic Search,Americas,1.0
+411,413,201704,20170423,mobile,0.0,0.0,Direct,Americas,1.0
+412,414,201704,20170423,mobile,0.0,0.0,Organic Search,Americas,1.0
+413,415,201704,20170423,desktop,0.0,0.0,Organic Search,Americas,1.0
+414,416,201704,20170423,desktop,0.0,0.0,Organic Search,Europe,1.0
+415,417,201704,20170423,mobile,0.0,0.0,Organic Search,Americas,1.0
+416,418,201704,20170423,mobile,0.0,0.0,Direct,Asia,1.0
+417,419,201704,20170423,tablet,0.0,0.0,Organic Search,Oceania,1.0
+418,420,201704,20170423,mobile,0.0,0.0,Direct,Europe,1.0
+419,421,201704,20170423,mobile,0.0,0.0,Organic Search,Africa,1.0
+420,422,201704,20170423,mobile,0.0,0.0,Organic Search,Americas,1.0
+421,423,201704,20170423,mobile,0.0,0.0,Organic Search,Americas,1.0
+422,424,201704,20170423,desktop,0.0,0.0,Organic Search,Europe,1.0
+423,425,201704,20170423,desktop,0.0,0.0,Organic Search,Europe,1.0
+424,426,201704,20170423,mobile,0.0,0.0,Organic Search,Americas,1.0
+425,427,201704,20170423,mobile,0.0,0.0,Organic Search,Europe,1.0
+426,428,201704,20170423,desktop,0.0,0.0,Organic Search,Asia,1.0
+427,429,201704,20170423,desktop,0.0,0.0,Organic Search,Europe,1.0
+428,430,201704,20170423,desktop,0.0,0.0,Organic Search,Oceania,1.0
+429,431,201704,20170423,desktop,0.0,0.0,Organic Search,Asia,1.0
+430,432,201704,20170423,desktop,0.0,0.0,Organic Search,Europe,1.0
+431,433,201704,20170423,mobile,0.0,0.0,Organic Search,Americas,1.0
+432,434,201704,20170423,desktop,0.0,0.0,Social,Asia,1.0
+433,435,201704,20170423,mobile,0.0,0.0,Organic Search,Americas,1.0
+434,436,201704,20170423,mobile,0.0,0.0,Organic Search,Americas,1.0
+435,437,201704,20170423,desktop,0.0,0.0,Organic Search,Americas,1.0
+436,438,201704,20170423,tablet,0.0,0.0,Organic Search,Europe,1.0
+437,439,201704,20170423,desktop,0.0,0.0,Organic Search,Europe,1.0
+438,440,201704,20170423,mobile,0.0,0.0,Direct,Europe,1.0
+439,441,201704,20170423,desktop,0.0,0.0,Organic Search,Asia,1.0
+440,442,201704,20170423,mobile,0.0,0.0,Organic Search,Europe,1.0
+441,443,201704,20170423,mobile,0.0,0.0,Organic Search,Americas,1.0
+442,444,201704,20170423,desktop,0.0,0.0,Organic Search,Europe,1.0
+443,445,201704,20170423,desktop,0.0,0.0,Social,Asia,1.0
+444,446,201704,20170423,desktop,0.0,0.0,Organic Search,Americas,0.0
+445,447,201704,20170423,desktop,0.0,0.0,Organic Search,Asia,1.0
+446,448,201704,20170423,desktop,0.0,0.0,Organic Search,Asia,1.0
+447,449,201704,20170423,mobile,0.0,0.0,Organic Search,Asia,1.0
+448,450,201704,20170423,tablet,0.0,0.0,Direct,Europe,1.0
+449,451,201704,20170423,desktop,0.0,0.0,Organic Search,Americas,1.0
+450,452,201704,20170423,mobile,0.0,0.0,Organic Search,Americas,1.0
+451,453,201704,20170423,desktop,0.0,0.0,Social,Asia,1.0
+452,454,201704,20170423,mobile,0.0,0.0,Organic Search,Asia,1.0
+453,455,201704,20170423,mobile,0.0,0.0,Organic Search,Europe,1.0
+454,456,201704,20170423,desktop,0.0,0.0,Social,Asia,1.0
+455,457,201704,20170423,desktop,0.0,0.0,Organic Search,Americas,1.0
+456,458,201704,20170423,mobile,0.0,0.0,Organic Search,Europe,1.0
+457,459,201704,20170423,mobile,0.0,0.0,Organic Search,Americas,1.0
+458,460,201704,20170423,tablet,0.0,0.0,Organic Search,Asia,1.0
+459,461,201704,20170423,mobile,0.0,0.0,Organic Search,Americas,1.0
+460,462,201704,20170423,desktop,0.0,0.0,Organic Search,Asia,1.0
+461,463,201704,20170423,desktop,0.0,0.0,Organic Search,Oceania,1.0
+462,464,201704,20170423,mobile,0.0,0.0,Organic Search,Europe,1.0
+463,465,201704,20170423,desktop,0.0,0.0,Social,Asia,1.0
+464,466,201704,20170423,mobile,0.0,0.0,Direct,Europe,1.0
+465,467,201704,20170423,mobile,0.0,0.0,Organic Search,Asia,1.0
+466,468,201704,20170423,desktop,0.0,0.0,Organic Search,Americas,1.0
+467,469,201704,20170423,mobile,0.0,0.0,Organic Search,Asia,1.0
+468,470,201704,20170423,mobile,0.0,0.0,Direct,Europe,1.0
+469,471,201704,20170423,mobile,0.0,0.0,Organic Search,Americas,1.0
+470,472,201704,20170423,desktop,0.0,0.0,Organic Search,Europe,1.0
+471,473,201704,20170423,mobile,0.0,0.0,Organic Search,Asia,1.0
+472,474,201704,20170423,desktop,0.0,0.0,Organic Search,Europe,1.0
+473,475,201704,20170423,mobile,0.0,0.0,Organic Search,Europe,1.0
+474,476,201704,20170423,mobile,0.0,0.0,Organic Search,Europe,1.0
+475,477,201704,20170423,desktop,0.0,0.0,Organic Search,Europe,1.0
+476,478,201704,20170423,desktop,0.0,0.0,Organic Search,Europe,1.0
+477,479,201704,20170423,desktop,0.0,0.0,Referral,Europe,1.0
+478,480,201704,20170423,desktop,0.0,0.0,Organic Search,Europe,1.0
+479,481,201704,20170423,desktop,0.0,0.0,Organic Search,Asia,1.0
+480,482,201704,20170423,mobile,0.0,0.0,Organic Search,Europe,1.0
+481,483,201704,20170423,desktop,0.0,0.0,Organic Search,Europe,1.0
+482,484,201704,20170423,mobile,0.0,0.0,Organic Search,Asia,1.0
+483,485,201704,20170423,mobile,0.0,0.0,Organic Search,Americas,1.0
+484,486,201704,20170423,mobile,0.0,0.0,Direct,Americas,1.0
+485,487,201704,20170423,desktop,0.0,0.0,Organic Search,Americas,1.0
+486,488,201704,20170423,desktop,0.0,0.0,Organic Search,Asia,1.0
+487,489,201704,20170423,desktop,0.0,0.0,Organic Search,Europe,1.0
+488,490,201704,20170423,mobile,0.0,0.0,Direct,Asia,1.0
+489,491,201704,20170423,mobile,0.0,0.0,Organic Search,Americas,1.0
+490,492,201704,20170423,mobile,0.0,0.0,Direct,Asia,1.0
+491,493,201704,20170423,tablet,0.0,0.0,Organic Search,Europe,1.0
+492,494,201704,20170423,desktop,0.0,0.0,Organic Search,Oceania,1.0
+493,495,201704,20170423,mobile,0.0,0.0,Organic Search,Europe,1.0
+494,496,201704,20170423,mobile,0.0,0.0,Organic Search,Europe,1.0
+495,497,201704,20170423,mobile,0.0,0.0,Organic Search,Asia,1.0
+496,498,201704,20170423,mobile,0.0,0.0,Organic Search,Asia,1.0
+497,499,201704,20170423,mobile,0.0,0.0,Organic Search,Americas,1.0
+498,500,201704,20170423,mobile,0.0,0.0,Organic Search,Europe,1.0
+499,501,201704,20170423,desktop,0.0,0.0,Organic Search,Asia,1.0
+500,502,201704,20170423,mobile,0.0,0.0,Organic Search,Americas,1.0
+501,503,201704,20170423,mobile,0.0,0.0,Organic Search,Americas,1.0
+502,504,201704,20170423,mobile,0.0,0.0,Organic Search,Europe,1.0
+503,505,201704,20170423,tablet,0.0,0.0,Organic Search,Americas,1.0
+504,506,201704,20170423,mobile,0.0,0.0,Direct,Europe,1.0
+505,507,201704,20170423,mobile,0.0,0.0,Organic Search,Americas,1.0
+506,508,201704,20170423,tablet,0.0,0.0,Direct,Europe,1.0
+507,509,201704,20170423,mobile,0.0,0.0,Organic Search,Americas,1.0
+508,510,201704,20170423,desktop,0.0,0.0,Organic Search,Asia,1.0
+509,511,201704,20170423,mobile,0.0,0.0,Organic Search,Asia,1.0
+510,512,201704,20170423,desktop,0.0,0.0,Organic Search,Europe,1.0
+511,513,201704,20170423,mobile,0.0,0.0,Organic Search,Europe,1.0
+512,514,201704,20170423,mobile,0.0,0.0,Organic Search,Europe,1.0
+513,515,201704,20170423,mobile,0.0,0.0,Direct,Europe,0.0
+514,516,201704,20170423,mobile,0.0,0.0,Direct,Europe,0.0
+515,517,201704,20170423,desktop,0.0,0.0,Organic Search,Americas,1.0
+516,518,201704,20170423,tablet,0.0,0.0,Organic Search,Europe,1.0
+517,519,201704,20170423,tablet,0.0,0.0,Organic Search,Europe,0.0
+518,520,201704,20170423,mobile,0.0,0.0,Direct,Europe,0.0
+519,521,201704,20170423,mobile,0.0,0.0,Organic Search,Americas,0.0
+520,522,201704,20170423,tablet,0.0,0.0,Organic Search,Europe,0.0
+521,523,201704,20170423,desktop,0.0,0.0,Organic Search,Americas,1.0
+522,524,201704,20170423,mobile,0.0,0.0,Direct,Americas,1.0
+523,525,201704,20170423,mobile,0.0,0.0,Direct,Asia,0.0
+524,526,201704,20170423,mobile,0.0,0.0,Organic Search,Europe,0.0
+525,527,201704,20170423,mobile,0.0,0.0,Organic Search,Americas,0.0
+526,528,201704,20170423,desktop,0.0,0.0,Organic Search,Americas,0.0
+527,529,201704,20170423,mobile,0.0,0.0,Organic Search,Asia,0.0
+528,530,201704,20170423,desktop,0.0,0.0,Direct,Asia,0.0
+529,531,201704,20170423,desktop,0.0,0.0,Social,Asia,0.0
+530,532,201704,20170423,mobile,0.0,0.0,Direct,Asia,0.0
+531,533,201704,20170423,desktop,0.0,0.0,Organic Search,Asia,0.0
+532,534,201704,20170423,desktop,0.0,0.0,Organic Search,Asia,0.0
+533,535,201704,20170423,mobile,0.0,0.0,Organic Search,Asia,1.0
+534,536,201704,20170423,mobile,0.0,0.0,Direct,Asia,0.0
+535,537,201704,20170423,mobile,0.0,0.0,Organic Search,Americas,0.0
+536,538,201704,20170423,mobile,0.0,0.0,Organic Search,Europe,0.0
+537,539,201704,20170423,desktop,0.0,0.0,Organic Search,Americas,0.0
+538,540,201704,20170423,mobile,0.0,0.0,Direct,Americas,0.0
+539,541,201704,20170423,desktop,0.0,0.0,Organic Search,Americas,0.0
+540,542,201704,20170423,mobile,0.0,0.0,Organic Search,Americas,1.0
+541,543,201704,20170423,mobile,0.0,0.0,Organic Search,Asia,1.0
+542,544,201704,20170423,mobile,0.0,0.0,Organic Search,Americas,1.0
+543,545,201704,20170423,desktop,0.0,0.0,Organic Search,Americas,1.0
+544,546,201704,20170423,mobile,0.0,0.0,Organic Search,Americas,1.0
+545,547,201704,20170423,mobile,0.0,0.0,Direct,Asia,1.0
+546,548,201704,20170423,mobile,0.0,0.0,Organic Search,Asia,1.0
+547,549,201704,20170423,desktop,0.0,0.0,Direct,Africa,1.0
+548,550,201704,20170423,mobile,0.0,0.0,Organic Search,Americas,1.0
+549,551,201704,20170423,desktop,0.0,0.0,Organic Search,Americas,1.0
+550,552,201704,20170423,mobile,0.0,0.0,Organic Search,Americas,1.0
+551,553,201704,20170423,desktop,0.0,0.0,Organic Search,Americas,1.0
+552,554,201704,20170423,mobile,0.0,0.0,Organic Search,Americas,1.0
+553,555,201704,20170423,mobile,0.0,0.0,Direct,Europe,1.0
+554,556,201704,20170423,desktop,0.0,0.0,Organic Search,Europe,1.0
+555,557,201704,20170423,mobile,0.0,0.0,Organic Search,Asia,0.0
+556,558,201704,20170423,mobile,0.0,0.0,Organic Search,Americas,1.0
+557,559,201704,20170423,mobile,0.0,0.0,Direct,Americas,1.0
+558,560,201704,20170423,mobile,0.0,0.0,Organic Search,Asia,1.0
+559,561,201704,20170423,desktop,0.0,0.0,Organic Search,Asia,1.0
+560,562,201704,20170423,mobile,0.0,0.0,Organic Search,Asia,1.0
+561,563,201704,20170423,mobile,0.0,0.0,Organic Search,Americas,1.0
+562,564,201704,20170423,mobile,0.0,0.0,Organic Search,Americas,1.0
+563,565,201704,20170423,tablet,0.0,0.0,Organic Search,Asia,1.0
+564,566,201704,20170423,desktop,0.0,0.0,Organic Search,Asia,1.0
+565,567,201704,20170423,desktop,0.0,0.0,Organic Search,Americas,1.0
+566,568,201704,20170423,mobile,0.0,0.0,Organic Search,Europe,1.0
+567,569,201704,20170423,desktop,0.0,0.0,Organic Search,Americas,1.0
+568,570,201704,20170423,mobile,0.0,0.0,Organic Search,Asia,1.0
+569,571,201704,20170423,mobile,0.0,0.0,Direct,Asia,1.0
+570,572,201704,20170423,desktop,0.0,0.0,Direct,Asia,1.0
+571,573,201704,20170423,mobile,0.0,0.0,Organic Search,Oceania,1.0
+572,574,201704,20170423,desktop,0.0,0.0,Organic Search,Asia,1.0
+573,575,201704,20170423,mobile,0.0,0.0,Organic Search,Africa,1.0
+574,576,201704,20170423,mobile,0.0,0.0,Organic Search,Americas,1.0
+575,577,201704,20170423,desktop,0.0,0.0,Organic Search,Oceania,1.0
+576,578,201704,20170423,mobile,0.0,0.0,Organic Search,Americas,1.0
+577,579,201704,20170423,desktop,0.0,0.0,Organic Search,Europe,1.0
+578,580,201704,20170423,desktop,0.0,0.0,Direct,Asia,1.0
+579,581,201704,20170423,desktop,0.0,0.0,Organic Search,Asia,1.0
+580,582,201704,20170423,desktop,0.0,0.0,Organic Search,Americas,1.0
+581,583,201704,20170423,desktop,0.0,0.0,Organic Search,Asia,1.0
+582,584,201704,20170423,mobile,0.0,0.0,Organic Search,Americas,1.0
+583,585,201704,20170423,desktop,0.0,0.0,Organic Search,Asia,1.0
+584,586,201704,20170423,desktop,0.0,0.0,Organic Search,Oceania,1.0
+585,587,201704,20170423,desktop,0.0,0.0,Direct,Asia,1.0
+586,588,201704,20170423,desktop,0.0,0.0,Organic Search,Africa,1.0
+587,589,201704,20170423,desktop,0.0,0.0,Organic Search,Americas,1.0
+588,590,201704,20170423,mobile,0.0,0.0,Organic Search,Americas,1.0
+589,591,201704,20170423,mobile,0.0,0.0,Direct,Americas,1.0
+590,592,201704,20170423,desktop,0.0,0.0,Organic Search,Asia,1.0
+591,593,201704,20170423,mobile,0.0,0.0,Organic Search,Americas,0.0
+592,594,201704,20170423,desktop,0.0,0.0,Organic Search,Europe,1.0
+593,595,201704,20170423,mobile,0.0,0.0,Paid Search,Americas,0.0
+594,596,201704,20170423,desktop,0.0,0.0,Organic Search,Asia,0.0
+595,597,201704,20170423,mobile,0.0,0.0,Organic Search,Americas,0.0
+596,598,201704,20170423,mobile,0.0,0.0,Organic Search,Americas,1.0
+597,599,201704,20170423,mobile,0.0,0.0,Organic Search,Americas,1.0
+598,600,201704,20170423,tablet,0.0,0.0,Organic Search,Americas,0.0
+599,601,201704,20170423,mobile,0.0,0.0,Organic Search,Americas,1.0
+600,602,201704,20170423,mobile,0.0,0.0,Organic Search,Americas,1.0
+601,603,201704,20170423,mobile,0.0,0.0,Organic Search,Americas,1.0
+602,604,201704,20170423,mobile,0.0,0.0,Direct,Americas,1.0
+603,605,201704,20170423,desktop,0.0,0.0,Organic Search,Americas,1.0
+604,606,201704,20170423,mobile,0.0,0.0,Direct,Americas,1.0
+605,607,201704,20170423,desktop,0.0,0.0,Organic Search,Asia,1.0
+606,608,201704,20170423,desktop,0.0,0.0,Organic Search,Europe,1.0
+607,609,201704,20170423,mobile,0.0,0.0,Organic Search,Asia,1.0
+608,610,201704,20170423,mobile,0.0,0.0,Organic Search,Americas,1.0
+609,611,201704,20170423,desktop,0.0,0.0,Organic Search,Americas,1.0
+610,612,201704,20170423,desktop,0.0,0.0,Organic Search,Americas,1.0
+611,613,201704,20170423,mobile,0.0,0.0,Direct,Asia,1.0
+612,614,201704,20170423,tablet,0.0,0.0,Organic Search,Americas,1.0
+613,615,201704,20170423,mobile,0.0,0.0,Organic Search,Europe,1.0
+614,616,201704,20170423,desktop,0.0,0.0,Organic Search,Americas,0.0
+615,617,201704,20170423,mobile,0.0,0.0,Direct,Americas,1.0
+616,618,201704,20170423,desktop,0.0,0.0,Organic Search,Americas,1.0
+617,619,201704,20170423,desktop,0.0,0.0,Referral,Americas,1.0
+618,620,201704,20170423,desktop,0.0,0.0,Direct,Asia,1.0
+619,621,201704,20170423,tablet,0.0,0.0,Organic Search,Europe,1.0
+620,622,201704,20170423,mobile,0.0,0.0,Direct,Asia,1.0
+621,623,201704,20170423,desktop,0.0,0.0,Organic Search,Americas,0.0
+622,624,201704,20170423,desktop,0.0,0.0,Organic Search,Europe,0.0
+623,625,201704,20170423,tablet,0.0,0.0,Organic Search,Americas,0.0
+624,626,201704,20170423,desktop,0.0,0.0,Direct,Americas,0.0
+625,627,201704,20170423,desktop,0.0,0.0,Social,Americas,0.0
+626,628,201704,20170423,desktop,0.0,0.0,Organic Search,Americas,0.0
+627,629,201704,20170423,mobile,0.0,0.0,Organic Search,Americas,0.0
+628,630,201704,20170423,mobile,0.0,0.0,Organic Search,Europe,0.0
+629,631,201704,20170423,desktop,0.0,0.0,Referral,Americas,0.0
+630,632,201704,20170423,mobile,0.0,0.0,Organic Search,Asia,0.0
+631,633,201704,20170423,desktop,0.0,0.0,Organic Search,Americas,0.0
+632,634,201704,20170423,desktop,0.0,0.0,Direct,Asia,0.0
+633,635,201704,20170423,desktop,0.0,0.0,Organic Search,Americas,0.0
+634,636,201704,20170423,desktop,0.0,0.0,Referral,Americas,0.0
+635,637,201704,20170423,desktop,0.0,0.0,Paid Search,Americas,0.0
+636,638,201704,20170423,mobile,0.0,0.0,Organic Search,Americas,0.0
+637,639,201704,20170423,desktop,0.0,0.0,Organic Search,Asia,0.0
+638,640,201704,20170423,desktop,0.0,0.0,Affiliates,Americas,0.0
+639,641,201704,20170423,desktop,0.0,0.0,Referral,Asia,0.0
+640,642,201704,20170423,desktop,0.0,0.0,Referral,Americas,0.0
+641,643,201704,20170423,mobile,0.0,0.0,Organic Search,Asia,0.0
+642,644,201704,20170423,desktop,0.0,0.0,Direct,Asia,0.0
+643,645,201704,20170423,mobile,0.0,0.0,Organic Search,Americas,0.0
+644,646,201704,20170423,desktop,0.0,0.0,Organic Search,Americas,0.0
+645,647,201704,20170423,mobile,0.0,0.0,Organic Search,Americas,0.0
+646,648,201704,20170423,mobile,0.0,0.0,Organic Search,Asia,0.0
+647,649,201704,20170423,desktop,0.0,0.0,Paid Search,Americas,0.0
+648,650,201704,20170423,desktop,0.0,0.0,Organic Search,Americas,0.0
+649,651,201704,20170423,mobile,0.0,0.0,Direct,Americas,0.0
+650,652,201704,20170423,mobile,0.0,0.0,Organic Search,Oceania,1.0
+651,653,201704,20170423,desktop,0.0,0.0,Organic Search,Americas,0.0
+652,654,201704,20170423,desktop,0.0,0.0,Direct,Americas,0.0
+653,655,201704,20170423,mobile,0.0,0.0,Direct,Americas,0.0
+654,656,201704,20170423,desktop,0.0,0.0,Organic Search,Asia,0.0
+655,657,201704,20170423,desktop,0.0,0.0,Affiliates,Asia,0.0
+656,658,201704,20170423,mobile,0.0,0.0,Organic Search,Asia,0.0
+657,659,201704,20170423,mobile,0.0,0.0,Organic Search,Oceania,0.0
+658,660,201704,20170423,desktop,0.0,0.0,Organic Search,Asia,0.0
+659,661,201704,20170423,mobile,0.0,0.0,Referral,Americas,0.0
+660,662,201704,20170423,desktop,0.0,0.0,Organic Search,Americas,0.0
+661,663,201704,20170423,desktop,0.0,0.0,Direct,Asia,0.0
+662,664,201704,20170423,desktop,0.0,0.0,Direct,Americas,0.0
+663,665,201704,20170423,mobile,0.0,0.0,Organic Search,Europe,0.0
+664,666,201704,20170423,mobile,0.0,0.0,Organic Search,Europe,0.0
+665,667,201704,20170423,mobile,0.0,0.0,Direct,Americas,0.0
+666,668,201704,20170423,mobile,0.0,0.0,Organic Search,Europe,0.0
+667,669,201704,20170423,desktop,0.0,0.0,Organic Search,Americas,0.0
+668,670,201704,20170423,mobile,0.0,0.0,Organic Search,Americas,0.0
+669,671,201704,20170423,mobile,0.0,0.0,Direct,Americas,0.0
+670,672,201704,20170423,mobile,0.0,0.0,Direct,Americas,0.0
+671,673,201704,20170423,desktop,0.0,0.0,Referral,Americas,0.0
+672,674,201704,20170423,desktop,0.0,0.0,Organic Search,Americas,0.0
+673,675,201704,20170423,mobile,0.0,0.0,Paid Search,Americas,0.0
+674,676,201704,20170423,mobile,0.0,0.0,Organic Search,Americas,0.0
+675,677,201704,20170423,desktop,0.0,0.0,Organic Search,Asia,0.0
+676,678,201704,20170423,desktop,0.0,0.0,Organic Search,Europe,0.0
+677,679,201704,20170423,mobile,0.0,0.0,Organic Search,Asia,0.0
+678,680,201704,20170423,mobile,0.0,0.0,Direct,Europe,0.0
+679,681,201704,20170423,desktop,0.0,0.0,Organic Search,Europe,0.0
+680,682,201704,20170423,mobile,0.0,0.0,Organic Search,Americas,0.0
+681,683,201704,20170423,desktop,0.0,0.0,Organic Search,Americas,0.0
+682,684,201704,20170423,desktop,0.0,0.0,Referral,Americas,0.0
+683,685,201704,20170423,mobile,0.0,0.0,Organic Search,Americas,0.0
+684,686,201704,20170423,desktop,0.0,0.0,Organic Search,Americas,0.0
+685,687,201704,20170423,mobile,0.0,0.0,Organic Search,Americas,0.0
+686,688,201704,20170423,desktop,0.0,0.0,Organic Search,Asia,0.0
+687,689,201704,20170423,desktop,0.0,0.0,Organic Search,Europe,0.0
+688,690,201704,20170423,mobile,0.0,0.0,Organic Search,Africa,0.0
+689,691,201704,20170423,mobile,0.0,0.0,Organic Search,Europe,0.0
+690,692,201704,20170423,desktop,0.0,0.0,Organic Search,Europe,0.0
+691,693,201704,20170423,mobile,0.0,0.0,Social,Americas,0.0
+692,694,201704,20170423,desktop,0.0,0.0,Organic Search,Americas,0.0
+693,695,201704,20170423,mobile,0.0,0.0,Organic Search,Americas,0.0
+694,696,201704,20170423,mobile,0.0,0.0,Organic Search,Asia,0.0
+695,697,201704,20170423,desktop,0.0,0.0,Organic Search,Americas,0.0
+696,698,201704,20170423,desktop,0.0,0.0,Referral,Americas,0.0
+697,699,201704,20170423,desktop,0.0,0.0,Organic Search,Africa,0.0
+698,700,201704,20170423,desktop,0.0,0.0,Referral,Americas,0.0
+699,701,201704,20170423,mobile,0.0,0.0,Organic Search,Americas,0.0
+700,702,201704,20170423,mobile,0.0,0.0,Organic Search,Europe,0.0
+701,703,201704,20170423,mobile,0.0,0.0,Display,Americas,0.0
+702,704,201704,20170423,desktop,0.0,0.0,Direct,Americas,0.0
+703,705,201704,20170423,mobile,0.0,0.0,Social,Africa,0.0
+704,706,201704,20170423,desktop,0.0,0.0,Organic Search,Europe,0.0
+705,707,201704,20170423,desktop,0.0,0.0,Organic Search,Americas,0.0
+706,708,201704,20170423,desktop,0.0,0.0,Referral,Americas,0.0
+707,709,201704,20170423,mobile,0.0,0.0,Organic Search,Europe,0.0
+708,710,201704,20170423,tablet,0.0,0.0,Affiliates,Asia,0.0
+709,711,201704,20170423,mobile,0.0,0.0,Direct,Asia,0.0
+710,712,201704,20170423,mobile,0.0,0.0,Direct,Americas,0.0
+711,713,201704,20170423,desktop,0.0,0.0,Organic Search,Europe,0.0
+712,714,201704,20170423,desktop,0.0,0.0,Organic Search,Americas,0.0
+713,715,201704,20170423,mobile,0.0,0.0,Organic Search,Americas,0.0
+714,716,201704,20170423,mobile,0.0,0.0,Organic Search,Americas,0.0
+715,717,201704,20170423,desktop,0.0,0.0,Organic Search,Americas,0.0
+716,718,201704,20170423,desktop,0.0,0.0,Organic Search,Americas,0.0
+717,719,201704,20170423,tablet,0.0,0.0,Organic Search,Americas,0.0
+718,720,201704,20170423,desktop,0.0,0.0,Organic Search,Americas,0.0
+719,721,201704,20170423,desktop,0.0,0.0,Social,Asia,0.0
+720,722,201704,20170423,desktop,0.0,0.0,Referral,Americas,0.0
+721,723,201704,20170423,mobile,0.0,0.0,Organic Search,Asia,0.0
+722,724,201704,20170423,desktop,0.0,0.0,Direct,Americas,0.0
+723,725,201704,20170423,desktop,0.0,0.0,Organic Search,Americas,0.0
+724,726,201704,20170423,desktop,0.0,0.0,Referral,Americas,0.0
+725,727,201704,20170423,mobile,0.0,0.0,Organic Search,Americas,0.0
+726,728,201704,20170423,desktop,0.0,0.0,Direct,Europe,0.0
+727,729,201704,20170423,mobile,0.0,0.0,Organic Search,Europe,0.0
+728,730,201704,20170423,desktop,0.0,0.0,Direct,Europe,0.0
+729,731,201704,20170423,mobile,0.0,0.0,Organic Search,Europe,0.0
+730,732,201704,20170423,desktop,0.0,0.0,Organic Search,Asia,0.0
+731,733,201704,20170423,desktop,0.0,0.0,Social,Africa,0.0
+732,734,201704,20170423,mobile,0.0,0.0,Organic Search,Asia,0.0
+733,735,201704,20170423,desktop,0.0,0.0,Paid Search,Americas,0.0
+734,736,201704,20170423,desktop,0.0,0.0,Direct,Americas,0.0
+735,737,201704,20170423,desktop,0.0,0.0,Affiliates,Europe,0.0
+736,738,201704,20170423,desktop,0.0,0.0,Organic Search,Americas,0.0
+737,739,201704,20170423,mobile,0.0,0.0,Social,Americas,0.0
+738,740,201704,20170423,desktop,0.0,0.0,Direct,Americas,0.0
+739,741,201704,20170423,mobile,0.0,0.0,Direct,Europe,0.0
+740,742,201704,20170423,desktop,0.0,0.0,Organic Search,Asia,0.0
+741,743,201704,20170423,desktop,0.0,0.0,Organic Search,Asia,0.0
+742,744,201704,20170423,tablet,0.0,0.0,Organic Search,Americas,0.0
+743,745,201704,20170423,desktop,0.0,0.0,Organic Search,Americas,0.0
+744,746,201704,20170423,mobile,0.0,0.0,Direct,Americas,0.0
+745,747,201704,20170423,desktop,0.0,0.0,Direct,Americas,0.0
+746,748,201704,20170423,desktop,0.0,0.0,Referral,Oceania,0.0
+747,749,201704,20170423,desktop,0.0,0.0,Direct,Americas,0.0
+748,750,201704,20170423,mobile,0.0,0.0,Affiliates,Americas,0.0
+749,751,201704,20170423,desktop,0.0,0.0,Organic Search,Asia,0.0
+750,752,201704,20170423,desktop,0.0,0.0,Organic Search,Americas,0.0
+751,753,201704,20170423,desktop,0.0,0.0,Referral,Americas,0.0
+752,754,201704,20170423,desktop,0.0,0.0,Referral,Americas,0.0
+753,755,201704,20170423,desktop,0.0,0.0,Referral,Americas,0.0
+754,756,201704,20170423,mobile,0.0,0.0,Organic Search,Americas,0.0
+755,757,201704,20170423,desktop,0.0,0.0,Direct,Europe,0.0
+756,758,201704,20170423,desktop,0.0,0.0,Direct,Americas,0.0
+757,759,201704,20170423,desktop,0.0,0.0,Organic Search,Americas,0.0
+758,760,201704,20170423,desktop,0.0,0.0,Organic Search,Asia,0.0
+759,761,201704,20170423,mobile,0.0,0.0,Paid Search,Americas,0.0
+760,762,201704,20170423,mobile,0.0,0.0,Organic Search,Americas,0.0
+761,763,201704,20170423,desktop,0.0,0.0,Direct,Americas,0.0
+762,764,201704,20170423,desktop,0.0,0.0,Organic Search,Europe,0.0
+763,765,201704,20170423,desktop,0.0,0.0,Organic Search,Africa,0.0
+764,766,201704,20170423,desktop,0.0,0.0,Affiliates,Asia,0.0
+765,767,201704,20170423,mobile,0.0,0.0,Organic Search,Americas,0.0
+766,768,201704,20170423,desktop,0.0,0.0,Organic Search,Oceania,0.0
+767,769,201704,20170423,desktop,0.0,0.0,Organic Search,Asia,0.0
+768,770,201704,20170423,tablet,0.0,0.0,Organic Search,Americas,0.0
+769,771,201704,20170423,desktop,0.0,0.0,Social,Europe,0.0
+770,772,201704,20170423,desktop,0.0,0.0,Referral,Americas,0.0
+771,773,201704,20170423,mobile,0.0,0.0,Organic Search,Asia,0.0
+772,774,201704,20170423,desktop,0.0,0.0,Display,Americas,0.0
+773,775,201704,20170423,desktop,0.0,0.0,Organic Search,Americas,0.0
+774,776,201704,20170423,desktop,0.0,0.0,Organic Search,Americas,0.0
+775,777,201704,20170423,desktop,0.0,0.0,Organic Search,Americas,0.0
+776,778,201704,20170423,desktop,0.0,0.0,Organic Search,Asia,0.0
+777,779,201704,20170423,mobile,0.0,0.0,Display,Americas,0.0
+778,780,201704,20170423,desktop,0.0,0.0,Organic Search,Asia,0.0
+779,781,201704,20170423,desktop,0.0,0.0,Organic Search,Americas,0.0
+780,782,201704,20170423,desktop,0.0,0.0,Referral,Asia,0.0
+781,783,201704,20170423,desktop,0.0,0.0,Organic Search,Americas,0.0
+782,784,201704,20170423,mobile,0.0,0.0,Organic Search,Americas,0.0
+783,785,201704,20170423,desktop,0.0,0.0,Organic Search,Europe,0.0
+784,786,201704,20170423,desktop,0.0,0.0,Direct,Americas,0.0
+785,787,201704,20170423,mobile,0.0,0.0,Referral,Asia,0.0
+786,788,201704,20170423,desktop,0.0,0.0,Referral,Americas,0.0
+787,789,201704,20170423,desktop,0.0,0.0,Organic Search,Americas,0.0
+788,790,201704,20170423,desktop,0.0,0.0,Direct,Americas,0.0
+789,791,201704,20170423,mobile,0.0,0.0,Organic Search,Oceania,0.0
+790,792,201704,20170423,desktop,0.0,0.0,Organic Search,Europe,0.0
+791,793,201704,20170423,desktop,0.0,0.0,Organic Search,Europe,0.0
+792,794,201704,20170423,mobile,0.0,0.0,Organic Search,Asia,0.0
+793,795,201704,20170423,mobile,0.0,0.0,Organic Search,Europe,0.0
+794,796,201704,20170423,desktop,0.0,0.0,Organic Search,Americas,0.0
+795,797,201704,20170423,desktop,0.0,0.0,Organic Search,Americas,0.0
+796,798,201704,20170423,desktop,0.0,0.0,Organic Search,Americas,0.0
+797,800,201704,20170423,tablet,0.0,0.0,Organic Search,Americas,0.0
+798,801,201704,20170423,mobile,0.0,0.0,Organic Search,Europe,0.0
+799,802,201704,20170423,desktop,0.0,0.0,Organic Search,Asia,0.0
+800,803,201704,20170423,desktop,0.0,0.0,Referral,Americas,0.0
+801,804,201704,20170423,desktop,0.0,0.0,Organic Search,Americas,0.0
+802,805,201704,20170423,mobile,31.97,1.0,Organic Search,Americas,0.0
+803,806,201704,20170423,mobile,0.0,0.0,Paid Search,Americas,0.0
+804,807,201704,20170423,desktop,0.0,0.0,Paid Search,Americas,0.0
+805,808,201704,20170423,desktop,0.0,0.0,Organic Search,Americas,0.0
+806,809,201704,20170423,mobile,0.0,0.0,Organic Search,Asia,0.0
+807,810,201704,20170423,desktop,0.0,0.0,Organic Search,Europe,0.0
+808,811,201704,20170423,desktop,0.0,0.0,Organic Search,Asia,0.0
+809,812,201704,20170423,tablet,0.0,0.0,Organic Search,Americas,0.0
+810,813,201704,20170423,desktop,0.0,0.0,Organic Search,Europe,0.0
+811,814,201704,20170423,desktop,0.0,0.0,Referral,Americas,0.0
+812,815,201704,20170423,desktop,0.0,0.0,Referral,Americas,0.0
+813,816,201704,20170423,desktop,0.0,0.0,Organic Search,Americas,0.0
+814,817,201704,20170423,mobile,0.0,0.0,Social,Europe,0.0
+815,818,201704,20170423,desktop,0.0,0.0,Direct,Asia,0.0
+816,819,201704,20170423,mobile,0.0,0.0,Organic Search,Americas,0.0
+817,820,201704,20170423,desktop,0.0,0.0,Organic Search,Asia,0.0
+818,821,201704,20170423,mobile,0.0,0.0,Organic Search,Americas,0.0
+819,822,201704,20170423,mobile,0.0,0.0,Paid Search,Americas,0.0
+820,823,201704,20170423,desktop,0.0,0.0,Social,Asia,0.0
+821,824,201704,20170423,desktop,0.0,0.0,Direct,Americas,0.0
+822,825,201704,20170423,desktop,0.0,0.0,Direct,Americas,0.0
+823,826,201704,20170423,desktop,0.0,0.0,Referral,Americas,0.0
+824,827,201704,20170423,mobile,0.0,0.0,Organic Search,Americas,0.0
+825,828,201704,20170423,mobile,0.0,0.0,Organic Search,Europe,0.0
+826,829,201704,20170423,mobile,0.0,0.0,Organic Search,Asia,0.0
+827,830,201704,20170423,mobile,0.0,0.0,Organic Search,Americas,0.0
+828,831,201704,20170423,desktop,0.0,0.0,Organic Search,Americas,0.0
+829,832,201704,20170423,desktop,0.0,0.0,Organic Search,Europe,0.0
+830,833,201704,20170423,desktop,0.0,0.0,Organic Search,Asia,0.0
+831,834,201704,20170423,desktop,0.0,0.0,Organic Search,Asia,0.0
+832,835,201704,20170423,desktop,0.0,0.0,Referral,Americas,0.0
+833,836,201704,20170423,desktop,0.0,0.0,Organic Search,Americas,0.0
+834,837,201704,20170423,tablet,0.0,0.0,Organic Search,Americas,0.0
+835,838,201704,20170423,desktop,0.0,0.0,Organic Search,Americas,0.0
+836,839,201704,20170423,desktop,0.0,0.0,Organic Search,Americas,0.0
+837,840,201704,20170423,desktop,0.0,0.0,Paid Search,Americas,0.0
+838,841,201704,20170423,tablet,0.0,0.0,Organic Search,Americas,0.0
+839,842,201704,20170423,mobile,0.0,0.0,Organic Search,Oceania,0.0
+840,843,201704,20170423,mobile,0.0,0.0,Organic Search,Asia,0.0
+841,844,201704,20170423,mobile,0.0,0.0,Direct,Americas,0.0
+842,845,201704,20170423,desktop,0.0,0.0,Referral,Americas,0.0
+843,846,201704,20170423,desktop,0.0,0.0,Organic Search,Americas,0.0
+844,847,201704,20170423,desktop,0.0,0.0,Affiliates,Europe,0.0
+845,848,201704,20170423,desktop,0.0,0.0,Direct,Europe,0.0
+846,849,201704,20170423,desktop,0.0,0.0,Organic Search,Americas,0.0
+847,850,201704,20170423,mobile,0.0,0.0,Direct,Europe,0.0
+848,851,201704,20170423,mobile,0.0,0.0,Organic Search,Oceania,0.0
+849,852,201704,20170423,mobile,0.0,0.0,Organic Search,Europe,0.0
+850,853,201704,20170423,mobile,0.0,0.0,Organic Search,Asia,0.0
+851,854,201704,20170423,desktop,0.0,0.0,Direct,Europe,0.0
+852,855,201704,20170423,mobile,0.0,0.0,Organic Search,Asia,0.0
+853,856,201704,20170423,mobile,0.0,0.0,Organic Search,Americas,0.0
+854,857,201704,20170423,mobile,0.0,0.0,Referral,Asia,0.0
+855,858,201704,20170423,mobile,0.0,0.0,Organic Search,Americas,0.0
+856,859,201704,20170423,desktop,0.0,0.0,Organic Search,Asia,0.0
+857,860,201704,20170423,desktop,0.0,0.0,Paid Search,Americas,0.0
+858,861,201704,20170423,desktop,0.0,0.0,Referral,Americas,0.0
+859,862,201704,20170423,desktop,0.0,0.0,Organic Search,Asia,0.0
+860,863,201704,20170423,mobile,0.0,0.0,Social,Europe,0.0
+861,864,201704,20170423,desktop,0.0,0.0,Referral,Americas,0.0
+862,865,201704,20170423,desktop,0.0,0.0,Organic Search,Americas,0.0
+863,866,201704,20170423,desktop,0.0,0.0,Direct,Americas,0.0
+864,867,201704,20170423,desktop,0.0,0.0,Organic Search,Asia,0.0
+865,868,201704,20170423,desktop,0.0,0.0,Organic Search,Americas,0.0
+866,869,201704,20170423,desktop,0.0,0.0,Referral,Americas,0.0
+867,870,201704,20170423,desktop,0.0,0.0,Referral,Americas,0.0
+868,871,201704,20170423,desktop,0.0,0.0,Organic Search,Americas,0.0
+869,872,201704,20170423,tablet,0.0,0.0,Direct,Americas,0.0
+870,873,201704,20170423,mobile,0.0,0.0,Direct,Americas,0.0
+871,874,201704,20170423,desktop,0.0,0.0,Affiliates,Asia,0.0
+872,875,201704,20170423,desktop,0.0,0.0,Organic Search,Americas,0.0
+873,876,201704,20170423,desktop,0.0,0.0,Organic Search,Asia,0.0
+874,877,201704,20170423,desktop,0.0,0.0,Organic Search,Europe,0.0
+875,878,201704,20170423,desktop,0.0,0.0,Organic Search,Americas,0.0
+876,879,201704,20170423,mobile,0.0,0.0,Organic Search,Europe,0.0
+877,880,201704,20170423,desktop,0.0,0.0,Organic Search,Americas,0.0
+878,881,201704,20170423,desktop,0.0,0.0,Referral,Americas,0.0
+879,882,201704,20170423,desktop,0.0,0.0,Organic Search,Europe,0.0
+880,883,201704,20170423,desktop,0.0,0.0,Organic Search,Americas,0.0
+881,884,201704,20170423,desktop,0.0,0.0,Referral,Americas,0.0
+882,885,201704,20170423,mobile,0.0,0.0,Paid Search,Americas,0.0
+883,886,201704,20170423,desktop,0.0,0.0,Direct,Europe,0.0
+884,887,201704,20170423,desktop,0.0,0.0,Organic Search,Oceania,0.0
+885,888,201704,20170423,desktop,0.0,0.0,Referral,Europe,0.0
+886,889,201704,20170423,mobile,0.0,0.0,Organic Search,Americas,0.0
+887,890,201704,20170423,desktop,0.0,0.0,Organic Search,Europe,0.0
+888,891,201704,20170423,desktop,0.0,0.0,Organic Search,Americas,0.0
+889,892,201704,20170423,mobile,0.0,0.0,Paid Search,Americas,0.0
+890,893,201704,20170423,mobile,0.0,0.0,Organic Search,Americas,0.0
+891,894,201704,20170423,desktop,0.0,0.0,Organic Search,Americas,0.0
+892,895,201704,20170423,desktop,0.0,0.0,Organic Search,Americas,0.0
+893,896,201704,20170423,tablet,0.0,0.0,Organic Search,Europe,0.0
+894,897,201704,20170423,mobile,0.0,0.0,Organic Search,Europe,0.0
+895,898,201704,20170423,desktop,0.0,0.0,Organic Search,Oceania,0.0
+896,899,201704,20170423,tablet,0.0,0.0,Organic Search,Americas,0.0
+897,900,201704,20170423,mobile,0.0,0.0,Organic Search,Asia,0.0
+898,901,201704,20170423,tablet,0.0,0.0,Organic Search,Europe,0.0
+899,902,201704,20170423,desktop,0.0,0.0,Referral,Americas,0.0
+900,903,201704,20170423,desktop,0.0,0.0,Direct,Asia,0.0
+901,904,201704,20170423,tablet,0.0,0.0,Organic Search,Americas,0.0
+902,905,201704,20170423,desktop,0.0,0.0,Organic Search,Americas,0.0
+903,906,201704,20170423,desktop,0.0,0.0,Paid Search,Americas,0.0
+904,907,201704,20170423,mobile,0.0,0.0,Organic Search,Americas,0.0
+905,908,201704,20170423,mobile,0.0,0.0,Organic Search,Americas,0.0
+906,909,201704,20170423,desktop,0.0,0.0,Referral,Americas,0.0
+907,910,201704,20170423,desktop,0.0,0.0,Referral,Americas,0.0
+908,911,201704,20170423,desktop,0.0,0.0,Organic Search,Americas,0.0
+909,912,201704,20170423,desktop,0.0,0.0,Organic Search,Americas,0.0
+910,913,201704,20170423,desktop,0.0,0.0,Direct,Americas,0.0
+911,914,201704,20170423,mobile,0.0,0.0,Organic Search,Americas,0.0
+912,915,201704,20170423,mobile,0.0,0.0,Organic Search,Americas,0.0
+913,916,201704,20170423,desktop,0.0,0.0,Organic Search,Americas,0.0
+914,917,201704,20170423,mobile,0.0,0.0,Organic Search,Asia,0.0
+915,918,201704,20170423,desktop,0.0,0.0,Affiliates,Europe,0.0
+916,919,201704,20170423,mobile,0.0,0.0,Organic Search,Americas,0.0
+917,920,201704,20170423,desktop,0.0,0.0,Organic Search,Americas,0.0
+918,921,201704,20170423,desktop,0.0,0.0,Referral,Americas,0.0
+919,922,201704,20170423,mobile,0.0,0.0,Organic Search,Americas,0.0
+920,923,201704,20170423,desktop,0.0,0.0,Referral,Americas,0.0
+921,924,201704,20170423,desktop,0.0,0.0,Organic Search,Europe,0.0
+922,925,201704,20170423,desktop,0.0,0.0,Affiliates,Europe,0.0
+923,926,201704,20170423,desktop,0.0,0.0,Affiliates,Asia,0.0
+924,927,201704,20170423,desktop,0.0,0.0,Organic Search,Asia,0.0
+925,928,201704,20170423,desktop,0.0,0.0,Organic Search,Americas,0.0
+926,929,201704,20170423,tablet,0.0,0.0,Direct,Asia,0.0
+927,930,201704,20170423,mobile,0.0,0.0,Organic Search,Americas,0.0
+928,931,201704,20170423,desktop,0.0,0.0,Referral,Americas,0.0
+929,932,201704,20170423,mobile,0.0,0.0,Direct,Asia,0.0
+930,933,201704,20170423,desktop,16.5,1.0,Paid Search,Americas,0.0
+931,934,201704,20170423,mobile,0.0,0.0,Direct,Africa,0.0
+932,935,201704,20170423,desktop,0.0,0.0,Organic Search,Americas,0.0
+933,936,201704,20170423,desktop,0.0,0.0,Organic Search,Americas,0.0
+934,937,201704,20170423,desktop,0.0,0.0,Direct,Europe,0.0
+935,938,201704,20170423,tablet,0.0,0.0,Organic Search,Americas,0.0
+936,939,201704,20170423,mobile,0.0,0.0,Organic Search,Europe,0.0
+937,940,201704,20170423,desktop,0.0,0.0,Direct,Americas,0.0
+938,941,201704,20170423,desktop,0.0,0.0,Social,Asia,0.0
+939,942,201704,20170423,mobile,0.0,0.0,Organic Search,Americas,0.0
+940,943,201704,20170423,desktop,0.0,0.0,Direct,Americas,0.0
+941,944,201704,20170423,mobile,0.0,0.0,Organic Search,Americas,0.0
+942,945,201704,20170423,mobile,0.0,0.0,Direct,Asia,0.0
+943,946,201704,20170423,desktop,0.0,0.0,Direct,Europe,0.0
+944,947,201704,20170423,tablet,0.0,0.0,Direct,Americas,0.0
+945,948,201704,20170423,mobile,0.0,0.0,Direct,Asia,0.0
+946,949,201704,20170423,desktop,0.0,0.0,Organic Search,Asia,0.0
+947,950,201704,20170423,desktop,0.0,0.0,Direct,Asia,0.0
+948,951,201704,20170423,desktop,0.0,0.0,Referral,Americas,0.0
+949,952,201704,20170423,tablet,0.0,0.0,Organic Search,Oceania,0.0
+950,953,201704,20170423,desktop,0.0,0.0,Social,Europe,0.0
+951,954,201704,20170423,desktop,0.0,0.0,Direct,Europe,0.0
+952,955,201704,20170423,tablet,0.0,0.0,Organic Search,Europe,0.0
+953,956,201704,20170423,mobile,0.0,0.0,Organic Search,Americas,0.0
+954,957,201704,20170423,mobile,0.0,0.0,Social,Asia,0.0
+955,958,201704,20170423,mobile,0.0,0.0,Organic Search,Americas,0.0
+956,959,201704,20170423,desktop,0.0,0.0,Paid Search,Americas,0.0
+957,960,201704,20170423,desktop,0.0,0.0,Organic Search,Asia,0.0
+958,961,201704,20170423,desktop,0.0,0.0,Affiliates,Asia,0.0
+959,962,201704,20170423,desktop,0.0,0.0,Referral,Americas,0.0
+960,963,201704,20170423,desktop,0.0,0.0,Organic Search,Americas,0.0
+961,964,201704,20170423,desktop,0.0,0.0,Organic Search,Americas,0.0
+962,965,201704,20170423,mobile,0.0,0.0,Organic Search,Europe,0.0
+963,966,201704,20170423,mobile,0.0,0.0,Organic Search,Europe,0.0
+964,967,201704,20170423,desktop,0.0,0.0,Direct,Americas,0.0
+965,968,201704,20170423,desktop,0.0,0.0,Referral,Oceania,0.0
+966,969,201704,20170423,desktop,0.0,0.0,Organic Search,Europe,0.0
+967,970,201704,20170423,desktop,0.0,0.0,Organic Search,Asia,0.0
+968,971,201704,20170423,desktop,0.0,0.0,Organic Search,Americas,0.0
+969,972,201704,20170423,mobile,0.0,0.0,Direct,Europe,0.0
+970,973,201704,20170423,mobile,0.0,0.0,Organic Search,Europe,0.0
+971,974,201704,20170423,desktop,0.0,0.0,Organic Search,Americas,0.0
+972,975,201704,20170423,desktop,0.0,0.0,Referral,Asia,0.0
+973,976,201704,20170423,desktop,0.0,0.0,Referral,Americas,0.0
+974,977,201704,20170423,desktop,0.0,0.0,Display,Americas,0.0
+975,978,201704,20170423,desktop,0.0,0.0,Direct,Americas,0.0
+976,979,201704,20170423,desktop,0.0,0.0,Organic Search,Americas,0.0
+977,980,201704,20170423,desktop,0.0,0.0,Organic Search,Europe,0.0
+978,981,201704,20170423,desktop,0.0,0.0,Organic Search,Europe,0.0
+979,982,201704,20170423,desktop,0.0,0.0,Referral,Americas,0.0
+980,983,201704,20170423,mobile,0.0,0.0,Organic Search,Americas,0.0
+981,984,201704,20170423,desktop,0.0,0.0,Organic Search,Asia,0.0
+982,985,201704,20170423,desktop,0.0,0.0,Direct,Americas,0.0
+983,986,201704,20170423,mobile,0.0,0.0,Direct,Asia,0.0
+984,987,201704,20170423,mobile,0.0,0.0,Organic Search,Asia,0.0
+985,988,201704,20170423,desktop,0.0,0.0,Organic Search,Asia,0.0
+986,989,201704,20170423,mobile,0.0,0.0,Organic Search,Asia,0.0
+987,990,201704,20170423,desktop,0.0,0.0,Referral,Americas,0.0
+988,991,201704,20170423,desktop,0.0,0.0,Direct,Americas,0.0
+989,992,201704,20170423,mobile,0.0,0.0,Social,Europe,0.0
+990,993,201704,20170423,desktop,0.0,0.0,Direct,Europe,0.0
+991,994,201704,20170423,desktop,0.0,0.0,Organic Search,Americas,0.0
+992,995,201704,20170423,mobile,0.0,0.0,Organic Search,Americas,0.0
+993,996,201704,20170423,mobile,0.0,0.0,Direct,Americas,0.0
+994,997,201704,20170423,mobile,0.0,0.0,Organic Search,Asia,0.0
+995,998,201704,20170423,mobile,0.0,0.0,Organic Search,Americas,0.0
+996,999,201704,20170423,desktop,0.0,0.0,Referral,Africa,0.0
+997,1000,201704,20170423,desktop,0.0,0.0,Organic Search,Europe,0.0
+998,1001,201704,20170423,mobile,0.0,0.0,Organic Search,Asia,0.0
+999,1002,201704,20170423,tablet,0.0,0.0,Organic Search,Europe,0.0
+1000,1003,201704,20170423,mobile,0.0,0.0,Direct,Europe,0.0
+1001,1004,201704,20170423,desktop,0.0,0.0,Affiliates,Europe,0.0
+1002,1005,201704,20170423,desktop,0.0,0.0,Organic Search,Americas,0.0
+1003,1006,201704,20170423,mobile,0.0,0.0,Organic Search,Americas,0.0
+1004,1007,201704,20170423,desktop,0.0,0.0,Organic Search,Americas,0.0
+1005,1008,201704,20170423,desktop,0.0,0.0,Referral,Americas,0.0
+1006,1009,201704,20170423,mobile,0.0,0.0,Organic Search,Americas,0.0
+1007,1010,201704,20170423,mobile,0.0,0.0,Organic Search,Europe,0.0
+1008,1011,201704,20170423,mobile,0.0,0.0,Direct,Americas,0.0
+1009,1012,201704,20170423,desktop,0.0,0.0,Direct,Asia,0.0
+1010,1013,201704,20170423,mobile,0.0,0.0,Organic Search,Asia,0.0
+1011,1014,201704,20170423,mobile,0.0,0.0,Organic Search,Europe,0.0
+1012,1015,201704,20170423,desktop,13.98,1.0,Organic Search,Americas,0.0
+1013,1016,201704,20170423,mobile,0.0,0.0,Organic Search,Europe,0.0
+1014,1017,201704,20170423,mobile,0.0,0.0,Direct,Americas,0.0
+1015,1018,201704,20170423,desktop,0.0,0.0,Organic Search,Americas,0.0
+1016,1019,201704,20170423,mobile,0.0,0.0,Paid Search,Americas,0.0
+1017,1020,201704,20170423,mobile,0.0,0.0,Direct,Americas,0.0
+1018,1021,201704,20170423,mobile,0.0,0.0,Direct,Americas,0.0
+1019,1022,201704,20170423,mobile,0.0,0.0,Direct,Americas,0.0
+1020,1023,201704,20170423,mobile,0.0,0.0,Organic Search,Asia,0.0
+1021,1024,201704,20170423,desktop,0.0,0.0,Direct,Asia,0.0
+1022,1025,201704,20170423,mobile,0.0,0.0,Organic Search,Asia,0.0
+1023,1026,201704,20170423,desktop,0.0,0.0,Paid Search,Americas,0.0
+1024,1027,201704,20170423,desktop,0.0,0.0,Social,Europe,0.0
+1025,1028,201704,20170423,tablet,0.0,0.0,Organic Search,Americas,0.0
+1026,1029,201704,20170423,desktop,35.99,1.0,Referral,Americas,0.0
+1027,1030,201704,20170423,desktop,0.0,0.0,Referral,Americas,0.0
+1028,1031,201704,20170423,mobile,0.0,0.0,Direct,Americas,0.0
+1029,1032,201704,20170423,desktop,19.99,1.0,Direct,Americas,0.0
+1030,1033,201704,20170423,desktop,0.0,0.0,Organic Search,Americas,0.0
+1031,1034,201704,20170423,mobile,0.0,0.0,Organic Search,Europe,0.0
+1032,1035,201704,20170423,desktop,0.0,0.0,Organic Search,Americas,0.0
+1033,1036,201704,20170423,desktop,0.0,0.0,Referral,Americas,0.0
+1034,1037,201704,20170423,desktop,0.0,0.0,Organic Search,Asia,0.0
+1035,1038,201704,20170423,desktop,0.0,0.0,Organic Search,Americas,0.0
+1036,1039,201704,20170423,desktop,0.0,0.0,Organic Search,Americas,0.0
+1037,1040,201704,20170423,desktop,0.0,0.0,Direct,Americas,0.0
+1038,1041,201704,20170423,desktop,0.0,0.0,Direct,Americas,0.0
+1039,1042,201704,20170423,desktop,0.0,0.0,Direct,Asia,0.0
+1040,1043,201704,20170423,tablet,0.0,0.0,Organic Search,Americas,0.0
+1041,1044,201704,20170423,desktop,59.77,1.0,Direct,Americas,0.0
+1042,1045,201704,20170423,desktop,0.0,0.0,Direct,Asia,0.0
+1043,1046,201704,20170423,desktop,0.0,0.0,Organic Search,Americas,0.0
+1044,1047,201704,20170423,desktop,0.0,0.0,Organic Search,Americas,0.0
+1045,1048,201704,20170423,mobile,0.0,0.0,Organic Search,Americas,0.0
+1046,1049,201704,20170423,desktop,0.0,0.0,Organic Search,Americas,0.0
+1047,1050,201704,20170423,mobile,0.0,0.0,Direct,Asia,0.0
+1048,1051,201704,20170423,desktop,0.0,0.0,Referral,Americas,0.0
+1049,1052,201704,20170423,mobile,0.0,0.0,Organic Search,Americas,0.0
+1050,1053,201704,20170423,mobile,0.0,0.0,Social,Americas,0.0
+1051,1054,201704,20170423,desktop,0.0,0.0,Referral,Americas,0.0
+1052,1055,201704,20170423,desktop,0.0,0.0,Organic Search,Asia,0.0
+1053,1056,201704,20170423,desktop,0.0,0.0,Organic Search,Americas,0.0
+1054,1057,201704,20170423,desktop,0.0,0.0,Organic Search,Americas,0.0
+1055,1058,201704,20170423,desktop,0.0,0.0,Organic Search,Europe,0.0
+1056,1059,201704,20170423,desktop,0.0,0.0,Direct,Europe,0.0
+1057,1060,201704,20170423,tablet,0.0,0.0,Paid Search,Americas,0.0
+1058,1061,201704,20170423,desktop,0.0,0.0,Referral,Americas,0.0
+1059,1062,201704,20170423,mobile,0.0,0.0,Organic Search,Americas,0.0
+1060,1063,201704,20170423,mobile,0.0,0.0,Organic Search,Europe,0.0
+1061,1064,201704,20170423,desktop,0.0,0.0,Organic Search,Americas,0.0
+1062,1065,201704,20170423,desktop,0.0,0.0,Direct,Asia,0.0
+1063,1066,201704,20170423,desktop,0.0,0.0,Organic Search,Oceania,0.0
+1064,1067,201704,20170423,desktop,412.4,1.0,Referral,Oceania,0.0
+1065,1068,201704,20170423,mobile,0.0,0.0,Organic Search,Asia,0.0
+1066,1069,201704,20170423,mobile,0.0,0.0,Organic Search,Europe,0.0
+1067,1070,201704,20170423,desktop,0.0,0.0,Referral,Americas,0.0
+1068,1071,201704,20170423,desktop,0.0,0.0,Organic Search,Americas,0.0
+1069,1072,201704,20170423,desktop,94.14,1.0,Referral,Americas,0.0
+1070,1073,201704,20170423,desktop,22.98,1.0,Direct,Americas,0.0
+1071,1074,201704,20170423,desktop,0.0,0.0,Paid Search,Americas,0.0
+1072,1075,201704,20170423,desktop,0.0,0.0,Organic Search,Americas,0.0
+1073,1076,201704,20170423,desktop,44.97,1.0,Referral,Americas,0.0
+1074,1077,201704,20170423,desktop,0.0,0.0,Organic Search,Asia,0.0
+1075,1078,201704,20170423,desktop,0.0,0.0,Organic Search,Asia,0.0
+1076,1079,201704,20170423,desktop,0.0,0.0,Organic Search,Americas,0.0
+1077,1080,201704,20170423,desktop,0.0,0.0,Organic Search,Europe,0.0
+1078,1081,201704,20170423,desktop,0.0,0.0,Organic Search,Americas,0.0
+1079,1082,201704,20170423,mobile,0.0,0.0,Organic Search,Americas,0.0
+1080,1083,201704,20170423,desktop,0.0,0.0,Social,Europe,1.0
+1081,1084,201704,20170423,desktop,0.0,0.0,Organic Search,Europe,1.0
+1082,1085,201704,20170423,mobile,0.0,0.0,Social,Asia,1.0
+1083,1086,201704,20170423,desktop,0.0,0.0,Organic Search,Europe,1.0
+1084,1087,201704,20170423,mobile,0.0,0.0,Organic Search,Asia,1.0
+1085,1088,201704,20170423,mobile,0.0,0.0,Organic Search,Americas,1.0
+1086,1089,201704,20170423,desktop,0.0,0.0,Direct,Asia,1.0
+1087,1090,201704,20170423,desktop,0.0,0.0,Organic Search,Europe,1.0
+1088,1091,201704,20170423,mobile,0.0,0.0,Direct,Asia,1.0
+1089,1092,201704,20170423,desktop,0.0,0.0,Social,Asia,1.0
+1090,1093,201704,20170423,mobile,0.0,0.0,Social,Europe,0.0
+1091,1094,201704,20170423,desktop,0.0,0.0,Organic Search,Asia,1.0
+1092,1095,201704,20170423,desktop,0.0,0.0,Social,Europe,1.0
+1093,1096,201704,20170423,desktop,0.0,0.0,Organic Search,Asia,1.0
+1094,1097,201704,20170423,desktop,0.0,0.0,Referral,Europe,1.0
+1095,1098,201704,20170423,mobile,0.0,0.0,Social,Asia,1.0
+1096,1099,201704,20170423,desktop,0.0,0.0,Social,Asia,1.0
+1097,1100,201704,20170423,mobile,0.0,0.0,Social,Europe,1.0
+1098,1101,201704,20170423,mobile,0.0,0.0,Organic Search,Europe,1.0
+1099,1102,201704,20170423,desktop,0.0,0.0,Social,Asia,1.0
+1100,1103,201704,20170423,mobile,0.0,0.0,Social,Europe,1.0
+1101,1104,201704,20170423,tablet,0.0,0.0,Social,Europe,0.0
+1102,1105,201704,20170423,desktop,0.0,0.0,Organic Search,Americas,0.0
+1103,1106,201704,20170423,desktop,0.0,0.0,Organic Search,Europe,1.0
+1104,1107,201704,20170423,desktop,0.0,0.0,Social,Africa,1.0
+1105,1108,201704,20170423,mobile,0.0,0.0,Social,Europe,1.0
+1106,1109,201704,20170423,desktop,0.0,0.0,Organic Search,Europe,1.0
+1107,1110,201704,20170423,mobile,0.0,0.0,Organic Search,Europe,1.0
+1108,1111,201704,20170423,mobile,0.0,0.0,Organic Search,Asia,1.0
+1109,1112,201704,20170423,desktop,0.0,0.0,Organic Search,Europe,1.0
+1110,1113,201704,20170423,desktop,0.0,0.0,Organic Search,Europe,1.0
+1111,1114,201704,20170423,desktop,0.0,0.0,Organic Search,Asia,1.0
+1112,1115,201704,20170423,desktop,0.0,0.0,Organic Search,Europe,1.0
+1113,1116,201704,20170423,desktop,0.0,0.0,Display,Americas,0.0
+1114,1117,201704,20170423,mobile,0.0,0.0,Organic Search,Europe,1.0
+1115,1118,201704,20170423,desktop,0.0,0.0,Social,Asia,1.0
+1116,1119,201704,20170423,desktop,0.0,0.0,Social,Americas,1.0
+1117,1120,201704,20170423,desktop,0.0,0.0,Organic Search,Asia,1.0
+1118,1121,201704,20170423,mobile,0.0,0.0,Social,Europe,1.0
+1119,1122,201704,20170423,mobile,0.0,0.0,Social,Asia,1.0
+1120,1123,201704,20170423,mobile,0.0,0.0,Social,Europe,1.0
+1121,1124,201704,20170423,desktop,0.0,0.0,Organic Search,Europe,1.0
+1122,1125,201704,20170423,desktop,0.0,0.0,Social,Europe,1.0
+1123,1126,201704,20170423,desktop,0.0,0.0,Social,Asia,1.0
+1124,1127,201704,20170423,mobile,0.0,0.0,Organic Search,Americas,0.0
+1125,1128,201704,20170423,desktop,0.0,0.0,Social,Asia,1.0
+1126,1129,201704,20170423,desktop,0.0,0.0,Organic Search,Americas,1.0
+1127,1130,201704,20170423,mobile,0.0,0.0,Organic Search,Europe,1.0
+1128,1131,201704,20170423,mobile,0.0,0.0,Referral,Americas,1.0
+1129,1132,201704,20170423,tablet,0.0,0.0,Direct,Asia,1.0
+1130,1133,201704,20170423,desktop,0.0,0.0,Social,Europe,1.0
+1131,1134,201704,20170423,desktop,0.0,0.0,Organic Search,Asia,1.0
+1132,1135,201704,20170423,mobile,0.0,0.0,Organic Search,Americas,1.0
+1133,1136,201704,20170423,tablet,0.0,0.0,Organic Search,Asia,1.0
+1134,1137,201704,20170423,mobile,0.0,0.0,Social,Asia,1.0
+1135,1138,201704,20170423,desktop,0.0,0.0,Referral,Americas,0.0
+1136,1139,201704,20170423,desktop,0.0,0.0,Social,Asia,1.0
+1137,1140,201704,20170423,desktop,0.0,0.0,Social,Europe,1.0
+1138,1141,201704,20170423,desktop,0.0,0.0,Social,Asia,1.0
+1139,1142,201704,20170423,desktop,0.0,0.0,Direct,Asia,1.0
+1140,1143,201704,20170423,desktop,0.0,0.0,Organic Search,Europe,1.0
+1141,1144,201704,20170423,mobile,0.0,0.0,Social,Asia,1.0
+1142,1145,201704,20170423,desktop,0.0,0.0,Organic Search,Europe,1.0
+1143,1146,201704,20170423,mobile,0.0,0.0,Social,Asia,1.0
+1144,1147,201704,20170423,desktop,0.0,0.0,Social,Europe,1.0
+1145,1148,201704,20170423,desktop,0.0,0.0,Social,Europe,1.0
+1146,1149,201704,20170423,desktop,0.0,0.0,Organic Search,Americas,0.0
+1147,1150,201704,20170423,desktop,0.0,0.0,Organic Search,Europe,1.0
+1148,1151,201704,20170423,tablet,0.0,0.0,Organic Search,Asia,1.0
+1149,1152,201704,20170423,desktop,0.0,0.0,Social,Asia,1.0
+1150,1153,201704,20170423,mobile,0.0,0.0,Social,Africa,1.0
+1151,1154,201704,20170423,desktop,0.0,0.0,Direct,Americas,1.0
+1152,1155,201704,20170423,desktop,0.0,0.0,Social,Asia,1.0
+1153,1156,201704,20170423,desktop,0.0,0.0,Organic Search,Europe,1.0
+1154,1157,201704,20170423,desktop,0.0,0.0,Social,Europe,1.0
+1155,1158,201704,20170423,desktop,0.0,0.0,Organic Search,Asia,1.0
+1156,1159,201704,20170423,tablet,0.0,0.0,Organic Search,Americas,1.0
+1157,1160,201704,20170423,desktop,0.0,0.0,Direct,Americas,0.0
+1158,1161,201704,20170423,tablet,0.0,0.0,Organic Search,Europe,1.0
+1159,1162,201704,20170423,desktop,0.0,0.0,Social,Asia,1.0
+1160,1163,201704,20170423,desktop,0.0,0.0,Social,Europe,1.0
+1161,1164,201704,20170423,desktop,0.0,0.0,Organic Search,Americas,1.0
+1162,1165,201704,20170423,mobile,0.0,0.0,Organic Search,Europe,1.0
+1163,1166,201704,20170423,desktop,0.0,0.0,Organic Search,Asia,1.0
+1164,1167,201704,20170423,mobile,0.0,0.0,Social,Europe,1.0
+1165,1168,201704,20170423,desktop,0.0,0.0,Social,Asia,1.0
+1166,1169,201704,20170423,desktop,0.0,0.0,Social,Asia,1.0
+1167,1170,201704,20170423,desktop,0.0,0.0,Organic Search,Asia,1.0
+1168,1171,201704,20170423,desktop,0.0,0.0,Organic Search,Americas,0.0
+1169,1172,201704,20170423,desktop,0.0,0.0,Organic Search,Asia,1.0
+1170,1173,201704,20170423,desktop,0.0,0.0,Social,Americas,1.0
+1171,1174,201704,20170423,desktop,0.0,0.0,Social,Asia,1.0
+1172,1175,201704,20170423,desktop,0.0,0.0,Organic Search,Europe,1.0
+1173,1176,201704,20170423,tablet,0.0,0.0,Social,Asia,1.0
+1174,1177,201704,20170423,desktop,0.0,0.0,Organic Search,Asia,1.0
+1175,1178,201704,20170423,desktop,0.0,0.0,Social,Europe,1.0
+1176,1179,201704,20170423,mobile,0.0,0.0,Organic Search,Europe,1.0
+1177,1180,201704,20170423,desktop,0.0,0.0,Social,Asia,1.0
+1178,1181,201704,20170423,desktop,0.0,0.0,Social,Europe,1.0
+1179,1182,201704,20170423,mobile,0.0,0.0,Referral,Asia,0.0
+1180,1183,201704,20170423,mobile,0.0,0.0,Social,Americas,1.0
+1181,1184,201704,20170423,desktop,0.0,0.0,Referral,Americas,1.0
+1182,1185,201704,20170423,desktop,0.0,0.0,Social,Europe,1.0
+1183,1186,201704,20170423,mobile,0.0,0.0,Direct,Americas,1.0
+1184,1187,201704,20170423,mobile,0.0,0.0,Social,Asia,1.0
+1185,1188,201704,20170423,mobile,0.0,0.0,Organic Search,Asia,1.0
+1186,1189,201704,20170423,mobile,0.0,0.0,Social,Europe,1.0
+1187,1190,201704,20170423,desktop,0.0,0.0,Organic Search,Americas,1.0
+1188,1191,201704,20170423,mobile,0.0,0.0,Social,Asia,1.0
+1189,1192,201704,20170423,tablet,0.0,0.0,Social,Americas,1.0
+1190,1193,201704,20170423,mobile,0.0,0.0,Social,Europe,0.0
+1191,1194,201704,20170423,desktop,0.0,0.0,Organic Search,Oceania,1.0
+1192,1195,201704,20170423,mobile,0.0,0.0,Social,Asia,1.0
+1193,1196,201704,20170423,desktop,0.0,0.0,Direct,Americas,1.0
+1194,1197,201704,20170423,desktop,0.0,0.0,Social,Europe,1.0
+1195,1198,201704,20170423,mobile,0.0,0.0,Organic Search,Europe,1.0
+1196,1199,201704,20170423,tablet,0.0,0.0,Social,Asia,1.0
+1197,1200,201704,20170423,desktop,0.0,0.0,Social,Europe,1.0
+1198,1201,201704,20170423,desktop,0.0,0.0,Organic Search,Americas,1.0
+1199,1202,201704,20170423,desktop,0.0,0.0,Social,Europe,1.0
+1200,1203,201704,20170423,desktop,0.0,0.0,Direct,Americas,1.0
+1201,1204,201704,20170423,desktop,0.0,0.0,Organic Search,Americas,0.0
+1202,1205,201704,20170423,desktop,0.0,0.0,Organic Search,Europe,1.0
+1203,1206,201704,20170423,mobile,0.0,0.0,Organic Search,Europe,1.0
+1204,1207,201704,20170423,desktop,0.0,0.0,Social,Asia,1.0
+1205,1208,201704,20170423,mobile,0.0,0.0,Social,Europe,1.0
+1206,1209,201704,20170423,desktop,0.0,0.0,Organic Search,Europe,1.0
+1207,1210,201704,20170423,mobile,0.0,0.0,Social,Asia,1.0
+1208,1211,201704,20170423,desktop,0.0,0.0,Organic Search,Europe,1.0
+1209,1212,201704,20170423,desktop,0.0,0.0,Organic Search,Asia,1.0
+1210,1213,201704,20170423,desktop,0.0,0.0,Organic Search,Asia,1.0
+1211,1214,201704,20170423,desktop,0.0,0.0,Organic Search,Europe,1.0
+1212,1215,201704,20170423,mobile,0.0,0.0,Organic Search,Asia,0.0
+1213,1216,201704,20170423,mobile,0.0,0.0,Organic Search,Americas,0.0
+1214,1217,201704,20170423,desktop,0.0,0.0,Social,Europe,1.0
+1215,1218,201704,20170423,desktop,0.0,0.0,Social,Asia,1.0
+1216,1219,201704,20170423,desktop,0.0,0.0,Organic Search,Oceania,1.0
+1217,1220,201704,20170423,mobile,0.0,0.0,Social,Americas,1.0
+1218,1221,201704,20170423,desktop,0.0,0.0,Organic Search,Asia,1.0
+1219,1222,201704,20170423,desktop,0.0,0.0,Social,Europe,1.0
+1220,1223,201704,20170423,mobile,0.0,0.0,Social,Africa,1.0
+1221,1224,201704,20170423,desktop,0.0,0.0,Direct,Americas,1.0
+1222,1225,201704,20170423,desktop,0.0,0.0,Organic Search,Europe,1.0
+1223,1226,201704,20170423,desktop,0.0,0.0,Organic Search,Americas,1.0
+1224,1227,201704,20170423,desktop,62.99,1.0,Organic Search,Americas,0.0
+1225,1228,201704,20170423,desktop,0.0,0.0,Organic Search,Americas,1.0
+1226,1229,201704,20170423,desktop,0.0,0.0,Referral,Oceania,1.0
+1227,1230,201704,20170423,desktop,0.0,0.0,Organic Search,Oceania,1.0
+1228,1231,201704,20170423,desktop,0.0,0.0,Social,Asia,1.0
+1229,1232,201704,20170423,mobile,0.0,0.0,Organic Search,Europe,1.0
+1230,1233,201704,20170423,desktop,0.0,0.0,Social,Europe,1.0
+1231,1234,201704,20170423,desktop,0.0,0.0,Social,Americas,1.0
+1232,1235,201704,20170423,desktop,0.0,0.0,Organic Search,Europe,1.0
+1233,1236,201704,20170423,desktop,0.0,0.0,Social,Asia,1.0
+1234,1237,201704,20170423,desktop,0.0,0.0,Social,Europe,1.0
+1235,1238,201704,20170423,desktop,0.0,0.0,Organic Search,Americas,0.0
+1236,1239,201704,20170423,desktop,0.0,0.0,Social,Africa,1.0
+1237,1240,201704,20170423,desktop,0.0,0.0,Social,Europe,1.0
+1238,1241,201704,20170423,mobile,0.0,0.0,Organic Search,Europe,1.0
+1239,1242,201704,20170423,mobile,0.0,0.0,Organic Search,Europe,1.0
+1240,1243,201704,20170423,desktop,0.0,0.0,Organic Search,Oceania,1.0
+1241,1244,201704,20170423,desktop,0.0,0.0,Social,Americas,1.0
+1242,1245,201704,20170423,desktop,0.0,0.0,Social,Americas,1.0
+1243,1246,201704,20170423,desktop,0.0,0.0,Social,Americas,1.0
+1244,1247,201704,20170423,desktop,0.0,0.0,Social,Europe,1.0
+1245,1248,201704,20170423,desktop,0.0,0.0,Social,Europe,1.0
+1246,1249,201704,20170423,mobile,0.0,0.0,Organic Search,Americas,0.0
+1247,1250,201704,20170423,desktop,0.0,0.0,Organic Search,Americas,1.0
+1248,1251,201704,20170423,tablet,0.0,0.0,Direct,Americas,1.0
+1249,1252,201704,20170423,desktop,0.0,0.0,Social,Asia,1.0
+1250,1253,201704,20170423,mobile,0.0,0.0,Organic Search,Asia,1.0
+1251,1254,201704,20170423,desktop,0.0,0.0,Organic Search,Europe,1.0
+1252,1255,201704,20170423,mobile,0.0,0.0,Organic Search,Asia,1.0
+1253,1256,201704,20170423,desktop,0.0,0.0,Social,Asia,1.0
+1254,1257,201704,20170423,mobile,0.0,0.0,Social,Asia,1.0
+1255,1258,201704,20170423,desktop,0.0,0.0,Organic Search,Oceania,1.0
+1256,1259,201704,20170423,mobile,0.0,0.0,Social,Americas,1.0
+1257,1260,201704,20170423,desktop,0.0,0.0,Organic Search,Americas,0.0
+1258,1261,201704,20170423,mobile,0.0,0.0,Organic Search,Europe,1.0
+1259,1262,201704,20170423,desktop,0.0,0.0,Organic Search,Europe,1.0
+1260,1263,201704,20170423,desktop,0.0,0.0,Organic Search,Asia,1.0
+1261,1264,201704,20170423,desktop,0.0,0.0,Organic Search,Americas,1.0
+1262,1265,201704,20170423,desktop,0.0,0.0,Organic Search,Africa,1.0
+1263,1266,201704,20170423,desktop,0.0,0.0,Organic Search,Europe,1.0
+1264,1267,201704,20170423,mobile,0.0,0.0,Social,Asia,1.0
+1265,1268,201704,20170423,desktop,0.0,0.0,Social,Americas,1.0
+1266,1269,201704,20170423,desktop,0.0,0.0,Organic Search,Europe,1.0
+1267,1270,201704,20170423,desktop,0.0,0.0,Social,Americas,1.0
+1268,1271,201704,20170423,mobile,0.0,0.0,Organic Search,Americas,0.0
+1269,1272,201704,20170423,desktop,0.0,0.0,Organic Search,Americas,1.0
+1270,1273,201704,20170423,desktop,0.0,0.0,Social,Asia,1.0
+1271,1274,201704,20170423,desktop,0.0,0.0,Organic Search,Asia,1.0
+1272,1275,201704,20170423,desktop,0.0,0.0,Social,Europe,1.0
+1273,1276,201704,20170423,desktop,0.0,0.0,Social,Asia,1.0
+1274,1277,201704,20170423,mobile,0.0,0.0,Social,Americas,1.0
+1275,1278,201704,20170423,mobile,0.0,0.0,Social,Europe,1.0
+1276,1279,201704,20170423,desktop,0.0,0.0,Social,Asia,1.0
+1277,1280,201704,20170423,desktop,0.0,0.0,Social,Europe,1.0
+1278,1281,201704,20170423,desktop,0.0,0.0,Social,Americas,1.0
+1279,1282,201704,20170423,mobile,0.0,0.0,Organic Search,Americas,0.0
+1280,1283,201704,20170423,desktop,0.0,0.0,Social,Asia,1.0
+1281,1284,201704,20170423,desktop,0.0,0.0,Organic Search,Africa,1.0
+1282,1285,201704,20170423,desktop,0.0,0.0,Organic Search,Europe,1.0
+1283,1286,201704,20170423,desktop,0.0,0.0,Organic Search,Asia,1.0
+1284,1287,201704,20170423,mobile,0.0,0.0,Social,Europe,1.0
+1285,1288,201704,20170423,mobile,0.0,0.0,Organic Search,Europe,1.0
+1286,1289,201704,20170423,desktop,0.0,0.0,Organic Search,Americas,1.0
+1287,1290,201704,20170423,desktop,0.0,0.0,Organic Search,Asia,1.0
+1288,1291,201704,20170423,desktop,0.0,0.0,Social,Europe,1.0
+1289,1292,201704,20170423,desktop,0.0,0.0,Social,Asia,1.0
+1290,1293,201704,20170423,tablet,0.0,0.0,Organic Search,Americas,0.0
+1291,1294,201704,20170423,mobile,0.0,0.0,Social,Asia,1.0
+1292,1295,201704,20170423,desktop,0.0,0.0,Direct,Asia,1.0
+1293,1296,201704,20170423,desktop,0.0,0.0,Social,Europe,1.0
+1294,1297,201704,20170423,mobile,0.0,0.0,Social,Asia,1.0
+1295,1298,201704,20170423,desktop,0.0,0.0,Social,Asia,1.0
+1296,1299,201704,20170423,mobile,0.0,0.0,Social,Americas,1.0
+1297,1300,201704,20170423,mobile,0.0,0.0,Social,Asia,1.0
+1298,1301,201704,20170423,desktop,0.0,0.0,Social,Asia,1.0
+1299,1302,201704,20170423,desktop,0.0,0.0,Social,Asia,1.0
+1300,1303,201704,20170423,tablet,0.0,0.0,Direct,Europe,1.0
+1301,1304,201704,20170423,mobile,0.0,0.0,Organic Search,Americas,0.0
+1302,1305,201704,20170423,desktop,0.0,0.0,Organic Search,Europe,1.0
+1303,1306,201704,20170423,tablet,0.0,0.0,Direct,Europe,1.0
+1304,1307,201704,20170423,desktop,0.0,0.0,Social,Asia,1.0
+1305,1308,201704,20170423,tablet,0.0,0.0,Organic Search,Europe,1.0
+1306,1309,201704,20170423,desktop,0.0,0.0,Direct,Asia,1.0
+1307,1310,201704,20170423,desktop,0.0,0.0,Organic Search,Europe,1.0
+1308,1311,201704,20170423,desktop,0.0,0.0,Direct,Americas,1.0
+1309,1312,201704,20170423,mobile,0.0,0.0,Direct,Africa,1.0
+1310,1313,201704,20170423,desktop,0.0,0.0,Direct,Asia,1.0
+1311,1314,201704,20170423,desktop,0.0,0.0,Social,Americas,1.0
+1312,1315,201704,20170423,mobile,0.0,0.0,Social,Europe,0.0
+1313,1316,201704,20170423,desktop,0.0,0.0,Social,Asia,1.0
+1314,1317,201704,20170423,mobile,0.0,0.0,Direct,Americas,1.0
+1315,1318,201704,20170423,desktop,0.0,0.0,Organic Search,Africa,1.0
+1316,1319,201704,20170423,desktop,0.0,0.0,Social,Asia,1.0
+1317,1320,201704,20170423,desktop,0.0,0.0,Organic Search,Asia,1.0
+1318,1321,201704,20170423,desktop,0.0,0.0,Social,Europe,1.0
+1319,1322,201704,20170423,desktop,0.0,0.0,Organic Search,Americas,1.0
+1320,1323,201704,20170423,desktop,0.0,0.0,Social,Asia,1.0
+1321,1324,201704,20170423,mobile,0.0,0.0,Organic Search,Americas,1.0
+1322,1325,201704,20170423,desktop,0.0,0.0,Social,Europe,1.0
+1323,1326,201704,20170423,desktop,0.0,0.0,Organic Search,Europe,0.0
+1324,1327,201704,20170423,desktop,0.0,0.0,Organic Search,Americas,0.0
+1325,1328,201704,20170423,desktop,0.0,0.0,Social,Americas,1.0
+1326,1329,201704,20170423,desktop,0.0,0.0,Social,Europe,1.0
+1327,1330,201704,20170423,desktop,0.0,0.0,Social,Europe,1.0
+1328,1331,201704,20170423,desktop,0.0,0.0,Organic Search,Europe,1.0
+1329,1332,201704,20170423,desktop,0.0,0.0,Organic Search,Europe,1.0
+1330,1333,201704,20170423,desktop,0.0,0.0,Social,Americas,1.0
+1331,1334,201704,20170423,desktop,0.0,0.0,Organic Search,Asia,1.0
+1332,1335,201704,20170423,mobile,0.0,0.0,Social,Asia,1.0
+1333,1336,201704,20170423,desktop,0.0,0.0,Social,Europe,1.0
+1334,1337,201704,20170423,desktop,0.0,0.0,Social,Africa,1.0
+1335,1338,201704,20170423,desktop,0.0,0.0,Organic Search,Americas,0.0
+1336,1339,201704,20170423,desktop,0.0,0.0,Organic Search,Americas,1.0
+1337,1340,201704,20170423,desktop,0.0,0.0,Organic Search,Europe,1.0
+1338,1341,201704,20170423,mobile,0.0,0.0,Organic Search,Asia,1.0
+1339,1342,201704,20170423,mobile,0.0,0.0,Organic Search,Americas,1.0
+1340,1343,201704,20170423,desktop,0.0,0.0,Social,Asia,1.0
+1341,1344,201704,20170423,desktop,0.0,0.0,Organic Search,Europe,1.0
+1342,1345,201704,20170423,tablet,0.0,0.0,Social,Asia,1.0
+1343,1346,201704,20170423,tablet,0.0,0.0,Organic Search,Europe,1.0
+1344,1347,201704,20170423,mobile,0.0,0.0,Organic Search,Europe,1.0
+1345,1348,201704,20170423,tablet,0.0,0.0,Social,Europe,1.0
+1346,1349,201704,20170423,desktop,0.0,0.0,Organic Search,Americas,0.0
+1347,1350,201704,20170423,desktop,0.0,0.0,Organic Search,Americas,1.0
+1348,1351,201704,20170423,desktop,0.0,0.0,Social,Asia,1.0
+1349,1352,201704,20170423,desktop,0.0,0.0,Organic Search,Europe,1.0
+1350,1353,201704,20170423,desktop,0.0,0.0,Organic Search,Americas,1.0
+1351,1354,201704,20170423,desktop,0.0,0.0,Organic Search,Europe,1.0
+1352,1355,201704,20170423,desktop,0.0,0.0,Social,Asia,1.0
+1353,1356,201704,20170423,desktop,0.0,0.0,Social,Asia,1.0
+1354,1357,201704,20170423,mobile,0.0,0.0,Social,Asia,1.0
+1355,1358,201704,20170423,desktop,0.0,0.0,Social,Europe,1.0
+1356,1359,201704,20170423,mobile,0.0,0.0,Direct,Americas,1.0
+1357,1360,201704,20170423,desktop,0.0,0.0,Organic Search,Americas,0.0
+1358,1361,201704,20170423,desktop,0.0,0.0,Social,Europe,1.0
+1359,1362,201704,20170423,desktop,0.0,0.0,Social,Europe,1.0
+1360,1363,201704,20170423,desktop,0.0,0.0,Social,Europe,1.0
+1361,1364,201704,20170423,desktop,0.0,0.0,Social,Asia,1.0
+1362,1365,201704,20170423,mobile,0.0,0.0,Social,Africa,1.0
+1363,1366,201704,20170423,desktop,0.0,0.0,Organic Search,Oceania,1.0
+1364,1367,201704,20170423,desktop,0.0,0.0,Organic Search,Americas,1.0
+1365,1368,201704,20170423,desktop,0.0,0.0,Direct,Americas,1.0
+1366,1369,201704,20170423,desktop,0.0,0.0,Social,Americas,1.0
+1367,1370,201704,20170423,desktop,0.0,0.0,Organic Search,Asia,1.0
+1368,1371,201704,20170423,desktop,0.0,0.0,Organic Search,Americas,0.0
+1369,1372,201704,20170423,desktop,0.0,0.0,Social,Europe,1.0
+1370,1373,201704,20170423,desktop,0.0,0.0,Organic Search,Americas,1.0
+1371,1374,201704,20170423,desktop,0.0,0.0,Organic Search,Europe,1.0
+1372,1375,201704,20170423,mobile,0.0,0.0,Social,Asia,1.0
+1373,1376,201704,20170423,mobile,0.0,0.0,Paid Search,Americas,1.0
+1374,1377,201704,20170423,desktop,0.0,0.0,Direct,Europe,1.0
+1375,1378,201704,20170423,desktop,0.0,0.0,Organic Search,Asia,1.0
+1376,1379,201704,20170423,desktop,0.0,0.0,Social,Asia,1.0
+1377,1380,201704,20170423,desktop,0.0,0.0,Organic Search,Asia,1.0
+1378,1381,201704,20170423,desktop,0.0,0.0,Organic Search,Europe,1.0
+1379,1382,201704,20170423,desktop,0.0,0.0,Organic Search,Americas,0.0
+1380,1383,201704,20170423,mobile,0.0,0.0,Social,Asia,1.0
+1381,1384,201704,20170423,desktop,0.0,0.0,Social,Europe,1.0
+1382,1385,201704,20170423,desktop,0.0,0.0,Organic Search,Europe,1.0
+1383,1386,201704,20170423,mobile,0.0,0.0,Social,Europe,1.0
+1384,1387,201704,20170423,mobile,0.0,0.0,Social,Europe,1.0
+1385,1388,201704,20170423,mobile,0.0,0.0,Social,Africa,1.0
+1386,1389,201704,20170423,desktop,0.0,0.0,Organic Search,Americas,1.0
+1387,1390,201704,20170423,mobile,0.0,0.0,Organic Search,Europe,1.0
+1388,1391,201704,20170423,tablet,0.0,0.0,Organic Search,Oceania,1.0
+1389,1392,201704,20170423,mobile,0.0,0.0,Social,Europe,1.0
+1390,1393,201704,20170423,desktop,0.0,0.0,Organic Search,Americas,0.0
+1391,1394,201704,20170423,tablet,0.0,0.0,Organic Search,Europe,1.0
+1392,1395,201704,20170423,desktop,0.0,0.0,Direct,Europe,1.0
+1393,1396,201704,20170423,desktop,0.0,0.0,Social,Europe,1.0
+1394,1397,201704,20170423,desktop,0.0,0.0,Direct,Europe,1.0
+1395,1398,201704,20170423,mobile,0.0,0.0,Social,Asia,1.0
+1396,1399,201704,20170423,desktop,0.0,0.0,Organic Search,Americas,1.0
+1397,1400,201704,20170423,desktop,0.0,0.0,Organic Search,Americas,1.0
+1398,1401,201704,20170423,desktop,0.0,0.0,Social,Asia,1.0
+1399,1402,201704,20170423,desktop,0.0,0.0,Organic Search,Asia,1.0
+1400,1403,201704,20170423,desktop,0.0,0.0,Organic Search,Oceania,1.0
+1401,1404,201704,20170423,desktop,0.0,0.0,Organic Search,Americas,0.0
+1402,1405,201704,20170423,mobile,0.0,0.0,Organic Search,Europe,1.0
+1403,1406,201704,20170423,desktop,0.0,0.0,Social,Europe,1.0
+1404,1407,201704,20170423,desktop,0.0,0.0,Social,Europe,1.0
+1405,1408,201704,20170423,mobile,0.0,0.0,Social,Europe,1.0
+1406,1409,201704,20170423,desktop,0.0,0.0,Social,Europe,1.0
+1407,1410,201704,20170423,desktop,0.0,0.0,Organic Search,Asia,1.0
+1408,1411,201704,20170423,tablet,0.0,0.0,Social,Europe,1.0
+1409,1412,201704,20170423,desktop,0.0,0.0,Direct,Europe,1.0
+1410,1413,201704,20170423,desktop,0.0,0.0,Social,Europe,1.0
+1411,1414,201704,20170423,desktop,0.0,0.0,Social,Asia,1.0
+1412,1415,201704,20170423,desktop,0.0,0.0,Organic Search,Americas,0.0
+1413,1416,201704,20170423,mobile,0.0,0.0,Social,Asia,1.0
+1414,1417,201704,20170423,desktop,0.0,0.0,Direct,Americas,1.0
+1415,1418,201704,20170423,desktop,0.0,0.0,Social,Europe,1.0
+1416,1419,201704,20170423,mobile,0.0,0.0,Organic Search,Europe,1.0
+1417,1420,201704,20170423,desktop,0.0,0.0,Social,Europe,1.0
+1418,1421,201704,20170423,desktop,0.0,0.0,Social,Europe,1.0
+1419,1422,201704,20170423,mobile,0.0,0.0,Direct,Americas,1.0
+1420,1423,201704,20170423,desktop,0.0,0.0,Organic Search,Asia,1.0
+1421,1424,201704,20170423,desktop,0.0,0.0,Organic Search,Asia,1.0
+1422,1425,201704,20170423,desktop,0.0,0.0,Organic Search,Americas,1.0
+1423,1426,201704,20170423,desktop,0.0,0.0,Organic Search,Americas,0.0
+1424,1427,201704,20170423,mobile,0.0,0.0,Social,Asia,1.0
+1425,1428,201704,20170423,desktop,0.0,0.0,Social,Europe,1.0
+1426,1429,201704,20170423,mobile,0.0,0.0,Social,Europe,1.0
+1427,1430,201704,20170423,desktop,0.0,0.0,Direct,Europe,1.0
+1428,1431,201704,20170423,desktop,0.0,0.0,Organic Search,Europe,1.0
+1429,1432,201704,20170423,desktop,0.0,0.0,Social,Americas,1.0
+1430,1433,201704,20170423,tablet,0.0,0.0,Direct,Asia,1.0
+1431,1434,201704,20170423,tablet,0.0,0.0,Social,Asia,1.0
+1432,1435,201704,20170423,desktop,0.0,0.0,Social,Asia,1.0
+1433,1436,201704,20170423,desktop,0.0,0.0,Social,Asia,1.0
+1434,1437,201704,20170423,tablet,0.0,0.0,Organic Search,Europe,0.0
+1435,1438,201704,20170423,desktop,0.0,0.0,Organic Search,Americas,0.0
+1436,1439,201704,20170423,desktop,0.0,0.0,Social,Americas,1.0
+1437,1440,201704,20170423,mobile,0.0,0.0,Organic Search,Europe,1.0
+1438,1441,201704,20170423,mobile,0.0,0.0,Social,Asia,1.0
+1439,1442,201704,20170423,mobile,0.0,0.0,Direct,Asia,1.0
+1440,1443,201704,20170423,tablet,0.0,0.0,Social,Asia,1.0
+1441,1444,201704,20170423,desktop,0.0,0.0,Organic Search,Europe,1.0
+1442,1445,201704,20170423,desktop,0.0,0.0,Social,Europe,1.0
+1443,1446,201704,20170423,desktop,0.0,0.0,Social,Europe,1.0
+1444,1447,201704,20170423,tablet,0.0,0.0,Social,Europe,1.0
+1445,1448,201704,20170423,desktop,0.0,0.0,Organic Search,Europe,1.0
+1446,1449,201704,20170423,mobile,0.0,0.0,Organic Search,Americas,0.0
+1447,1450,201704,20170423,desktop,0.0,0.0,Organic Search,Europe,1.0
+1448,1451,201704,20170423,desktop,0.0,0.0,Organic Search,Asia,1.0
+1449,1452,201704,20170423,desktop,0.0,0.0,Organic Search,Asia,1.0
+1450,1453,201704,20170423,desktop,0.0,0.0,Organic Search,Asia,1.0
+1451,1454,201704,20170423,desktop,0.0,0.0,Organic Search,Europe,1.0
+1452,1455,201704,20170423,tablet,0.0,0.0,Social,Asia,1.0
+1453,1456,201704,20170423,desktop,0.0,0.0,Social,Asia,1.0
+1454,1457,201704,20170423,desktop,0.0,0.0,Social,Europe,1.0
+1455,1458,201704,20170423,desktop,0.0,0.0,Social,Europe,1.0
+1456,1459,201704,20170423,desktop,0.0,0.0,Social,Europe,1.0
+1457,1460,201704,20170423,mobile,0.0,0.0,Organic Search,Americas,0.0
+1458,1461,201704,20170423,desktop,0.0,0.0,Social,Europe,1.0
+1459,1462,201704,20170423,mobile,0.0,0.0,Social,Asia,1.0
+1460,1463,201704,20170423,desktop,0.0,0.0,Social,Asia,1.0
+1461,1464,201704,20170423,mobile,0.0,0.0,Organic Search,Americas,1.0
+1462,1465,201704,20170423,desktop,0.0,0.0,Social,Americas,1.0
+1463,1466,201704,20170423,mobile,0.0,0.0,Social,Europe,1.0
+1464,1467,201704,20170423,mobile,0.0,0.0,Organic Search,Europe,1.0
+1465,1468,201704,20170423,desktop,0.0,0.0,Organic Search,Europe,1.0
+1466,1469,201704,20170423,mobile,0.0,0.0,Direct,Asia,1.0
+1467,1470,201704,20170423,desktop,0.0,0.0,Organic Search,Oceania,1.0
+1468,1471,201704,20170423,desktop,0.0,0.0,Organic Search,Americas,0.0
+1469,1472,201704,20170423,mobile,0.0,0.0,Organic Search,Europe,1.0
+1470,1473,201704,20170423,desktop,0.0,0.0,Organic Search,Europe,1.0
+1471,1474,201704,20170423,desktop,0.0,0.0,Organic Search,Oceania,1.0
+1472,1475,201704,20170423,desktop,0.0,0.0,Social,Asia,1.0
+1473,1476,201704,20170423,mobile,0.0,0.0,Organic Search,Europe,1.0
+1474,1477,201704,20170423,desktop,0.0,0.0,Organic Search,Europe,1.0
+1475,1478,201704,20170423,desktop,0.0,0.0,Direct,Asia,1.0
+1476,1479,201704,20170423,desktop,0.0,0.0,Referral,Europe,1.0
+1477,1480,201704,20170423,desktop,0.0,0.0,Social,Americas,1.0
+1478,1481,201704,20170423,desktop,0.0,0.0,Social,Europe,1.0
+1479,1482,201704,20170423,mobile,0.0,0.0,Organic Search,Americas,0.0
+1480,1483,201704,20170423,mobile,0.0,0.0,Organic Search,Asia,1.0
+1481,1484,201704,20170423,mobile,0.0,0.0,Social,Americas,1.0
+1482,1485,201704,20170423,desktop,0.0,0.0,Social,Americas,1.0
+1483,1486,201704,20170423,desktop,0.0,0.0,Social,Americas,1.0
+1484,1487,201704,20170423,desktop,0.0,0.0,Social,Americas,1.0
+1485,1488,201704,20170423,desktop,0.0,0.0,Social,Americas,1.0
+1486,1489,201704,20170423,mobile,0.0,0.0,Social,Asia,1.0
+1487,1490,201704,20170423,desktop,0.0,0.0,Social,Asia,1.0
+1488,1491,201704,20170423,mobile,0.0,0.0,Organic Search,Europe,1.0
+1489,1492,201704,20170423,tablet,0.0,0.0,Social,Americas,1.0
+1490,1493,201704,20170423,desktop,0.0,0.0,Social,Asia,0.0
+1491,1494,201704,20170423,desktop,0.0,0.0,Social,Asia,1.0
+1492,1495,201704,20170423,desktop,0.0,0.0,Referral,Europe,1.0
+1493,1496,201704,20170423,desktop,0.0,0.0,Referral,Americas,1.0
+1494,1497,201704,20170423,desktop,0.0,0.0,Referral,Asia,1.0
+1495,1498,201704,20170423,desktop,0.0,0.0,Referral,Americas,1.0
+1496,1499,201704,20170423,desktop,0.0,0.0,Paid Search,Americas,1.0
+1497,1500,201704,20170423,desktop,0.0,0.0,Direct,Asia,1.0
+1498,1501,201704,20170423,desktop,0.0,0.0,Referral,Americas,1.0
+1499,1502,201704,20170423,desktop,0.0,0.0,Direct,Africa,1.0
+1500,1503,201704,20170423,mobile,0.0,0.0,Paid Search,Americas,1.0
+1501,1504,201704,20170423,desktop,0.0,0.0,Organic Search,Americas,0.0
+1502,1505,201704,20170423,tablet,0.0,0.0,Referral,Europe,1.0
+1503,1506,201704,20170423,desktop,0.0,0.0,Direct,Americas,1.0
+1504,1507,201704,20170423,desktop,0.0,0.0,Organic Search,Asia,1.0
+1505,1508,201704,20170423,tablet,0.0,0.0,Referral,Europe,1.0
+1506,1509,201704,20170423,desktop,0.0,0.0,Referral,Asia,1.0
+1507,1510,201704,20170423,desktop,0.0,0.0,Referral,Europe,1.0
+1508,1511,201704,20170423,mobile,0.0,0.0,Direct,Americas,1.0
+1509,1512,201704,20170423,desktop,0.0,0.0,Referral,Americas,1.0
+1510,1513,201704,20170423,mobile,0.0,0.0,Direct,Americas,1.0
+1511,1514,201704,20170423,mobile,0.0,0.0,Paid Search,Americas,1.0
+1512,1515,201704,20170423,desktop,0.0,0.0,Organic Search,Americas,0.0
+1513,1516,201704,20170423,mobile,0.0,0.0,Direct,Americas,1.0
+1514,1517,201704,20170423,mobile,0.0,0.0,Direct,Americas,1.0
+1515,1518,201704,20170423,mobile,0.0,0.0,Direct,Americas,1.0
+1516,1519,201704,20170423,desktop,0.0,0.0,Affiliates,Europe,1.0
+1517,1520,201704,20170423,desktop,0.0,0.0,Organic Search,Europe,1.0
+1518,1521,201704,20170423,desktop,0.0,0.0,Organic Search,Americas,1.0
+1519,1522,201704,20170423,mobile,0.0,0.0,Organic Search,Asia,1.0
+1520,1523,201704,20170423,desktop,0.0,0.0,Affiliates,Asia,1.0
+1521,1524,201704,20170423,desktop,0.0,0.0,Referral,Americas,1.0
+1522,1525,201704,20170423,desktop,0.0,0.0,Affiliates,Asia,1.0
+1523,1526,201704,20170423,desktop,0.0,0.0,Direct,Americas,0.0
+1524,1527,201704,20170423,mobile,0.0,0.0,Direct,Asia,1.0
+1525,1528,201704,20170423,desktop,0.0,0.0,Paid Search,Americas,1.0
+1526,1529,201704,20170423,desktop,0.0,0.0,Referral,Europe,1.0
+1527,1530,201704,20170423,desktop,0.0,0.0,Organic Search,Americas,1.0
+1528,1531,201704,20170423,mobile,0.0,0.0,Organic Search,Americas,1.0
+1529,1532,201704,20170423,mobile,0.0,0.0,Direct,Americas,1.0
+1530,1533,201704,20170423,mobile,0.0,0.0,Direct,Americas,1.0
+1531,1534,201704,20170423,desktop,0.0,0.0,Affiliates,Americas,1.0
+1532,1535,201704,20170423,mobile,0.0,0.0,Direct,Americas,1.0
+1533,1536,201704,20170423,tablet,0.0,0.0,Paid Search,Asia,1.0
+1534,1537,201704,20170423,desktop,0.0,0.0,Organic Search,Americas,0.0
+1535,1538,201704,20170423,mobile,0.0,0.0,Organic Search,Americas,1.0
+1536,1539,201704,20170423,desktop,0.0,0.0,Direct,Americas,1.0
+1537,1540,201704,20170423,mobile,0.0,0.0,Direct,Asia,1.0
+1538,1541,201704,20170423,desktop,0.0,0.0,Referral,Asia,1.0
+1539,1542,201704,20170423,desktop,0.0,0.0,Referral,Europe,1.0
+1540,1543,201704,20170423,mobile,0.0,0.0,Direct,Americas,1.0
+1541,1544,201704,20170423,mobile,0.0,0.0,Social,Americas,1.0
+1542,1545,201704,20170423,desktop,0.0,0.0,Organic Search,Americas,1.0
+1543,1546,201704,20170423,desktop,0.0,0.0,Direct,Americas,1.0
+1544,1547,201704,20170423,mobile,0.0,0.0,Paid Search,Europe,1.0
+36,36,201704,20170423,desktop,176.25,1.0,Organic Search,Americas,0.0
+802,805,201704,20170423,mobile,31.97,1.0,Organic Search,Americas,0.0
+930,933,201704,20170423,desktop,16.5,1.0,Paid Search,Americas,0.0
+1012,1015,201704,20170423,desktop,13.98,1.0,Organic Search,Americas,0.0
+1026,1029,201704,20170423,desktop,35.99,1.0,Referral,Americas,0.0
+1029,1032,201704,20170423,desktop,19.99,1.0,Direct,Americas,0.0
+1041,1044,201704,20170423,desktop,59.77,1.0,Direct,Americas,0.0
+1064,1067,201704,20170423,desktop,412.4,1.0,Referral,Oceania,0.0
+1069,1072,201704,20170423,desktop,94.14,1.0,Referral,Americas,0.0
+1070,1073,201704,20170423,desktop,22.98,1.0,Direct,Americas,0.0
+1073,1076,201704,20170423,desktop,44.97,1.0,Referral,Americas,0.0
+1224,1227,201704,20170423,desktop,62.99,1.0,Organic Search,Americas,0.0
+36,36,201704,20170423,desktop,176.25,1.0,Organic Search,Americas,0.0
+802,805,201704,20170423,mobile,31.97,1.0,Organic Search,Americas,0.0
+930,933,201704,20170423,desktop,16.5,1.0,Paid Search,Americas,0.0
+1012,1015,201704,20170423,desktop,13.98,1.0,Organic Search,Americas,0.0
+1026,1029,201704,20170423,desktop,35.99,1.0,Referral,Americas,0.0
+1029,1032,201704,20170423,desktop,19.99,1.0,Direct,Americas,0.0
+1041,1044,201704,20170423,desktop,59.77,1.0,Direct,Americas,0.0
+1064,1067,201704,20170423,desktop,412.4,1.0,Referral,Oceania,0.0
+1069,1072,201704,20170423,desktop,94.14,1.0,Referral,Americas,0.0
+1070,1073,201704,20170423,desktop,22.98,1.0,Direct,Americas,0.0
+1073,1076,201704,20170423,desktop,44.97,1.0,Referral,Americas,0.0
+1224,1227,201704,20170423,desktop,62.99,1.0,Organic Search,Americas,0.0
+36,36,201704,20170423,desktop,176.25,1.0,Organic Search,Americas,0.0
+802,805,201704,20170423,mobile,31.97,1.0,Organic Search,Americas,0.0
+930,933,201704,20170423,desktop,16.5,1.0,Paid Search,Americas,0.0
+1012,1015,201704,20170423,desktop,13.98,1.0,Organic Search,Americas,0.0
+1026,1029,201704,20170423,desktop,35.99,1.0,Referral,Americas,0.0
+1029,1032,201704,20170423,desktop,19.99,1.0,Direct,Americas,0.0
+1041,1044,201704,20170423,desktop,59.77,1.0,Direct,Americas,0.0
+1064,1067,201704,20170423,desktop,412.4,1.0,Referral,Oceania,0.0
+1069,1072,201704,20170423,desktop,94.14,1.0,Referral,Americas,0.0
+1070,1073,201704,20170423,desktop,22.98,1.0,Direct,Americas,0.0
+1073,1076,201704,20170423,desktop,44.97,1.0,Referral,Americas,0.0
+1224,1227,201704,20170423,desktop,62.99,1.0,Organic Search,Americas,0.0
+36,36,201704,20170423,desktop,176.25,1.0,Organic Search,Americas,0.0
+802,805,201704,20170423,mobile,31.97,1.0,Organic Search,Americas,0.0
+930,933,201704,20170423,desktop,16.5,1.0,Paid Search,Americas,0.0
+1012,1015,201704,20170423,desktop,13.98,1.0,Organic Search,Americas,0.0
+1026,1029,201704,20170423,desktop,35.99,1.0,Referral,Americas,0.0
+1029,1032,201704,20170423,desktop,19.99,1.0,Direct,Americas,0.0
+1041,1044,201704,20170423,desktop,59.77,1.0,Direct,Americas,0.0
+1064,1067,201704,20170423,desktop,412.4,1.0,Referral,Oceania,0.0
+1069,1072,201704,20170423,desktop,94.14,1.0,Referral,Americas,0.0
+1070,1073,201704,20170423,desktop,22.98,1.0,Direct,Americas,0.0
+1073,1076,201704,20170423,desktop,44.97,1.0,Referral,Americas,0.0
+1224,1227,201704,20170423,desktop,62.99,1.0,Organic Search,Americas,0.0
+36,36,201704,20170423,desktop,176.25,1.0,Organic Search,Americas,0.0
+802,805,201704,20170423,mobile,31.97,1.0,Organic Search,Americas,0.0
+930,933,201704,20170423,desktop,16.5,1.0,Paid Search,Americas,0.0
+1012,1015,201704,20170423,desktop,13.98,1.0,Organic Search,Americas,0.0
+1026,1029,201704,20170423,desktop,35.99,1.0,Referral,Americas,0.0
+1029,1032,201704,20170423,desktop,19.99,1.0,Direct,Americas,0.0
+1041,1044,201704,20170423,desktop,59.77,1.0,Direct,Americas,0.0
+1064,1067,201704,20170423,desktop,412.4,1.0,Referral,Oceania,0.0
+1069,1072,201704,20170423,desktop,94.14,1.0,Referral,Americas,0.0
+1070,1073,201704,20170423,desktop,22.98,1.0,Direct,Americas,0.0
+1073,1076,201704,20170423,desktop,44.97,1.0,Referral,Americas,0.0
+1224,1227,201704,20170423,desktop,62.99,1.0,Organic Search,Americas,0.0
+36,36,201704,20170423,desktop,176.25,1.0,Organic Search,Americas,0.0
+802,805,201704,20170423,mobile,31.97,1.0,Organic Search,Americas,0.0
+930,933,201704,20170423,desktop,16.5,1.0,Paid Search,Americas,0.0
+1012,1015,201704,20170423,desktop,13.98,1.0,Organic Search,Americas,0.0
+1026,1029,201704,20170423,desktop,35.99,1.0,Referral,Americas,0.0
+1029,1032,201704,20170423,desktop,19.99,1.0,Direct,Americas,0.0
+1041,1044,201704,20170423,desktop,59.77,1.0,Direct,Americas,0.0
+1064,1067,201704,20170423,desktop,412.4,1.0,Referral,Oceania,0.0
+1069,1072,201704,20170423,desktop,94.14,1.0,Referral,Americas,0.0
+1070,1073,201704,20170423,desktop,22.98,1.0,Direct,Americas,0.0
+1073,1076,201704,20170423,desktop,44.97,1.0,Referral,Americas,0.0
+1224,1227,201704,20170423,desktop,62.99,1.0,Organic Search,Americas,0.0
+36,36,201704,20170423,desktop,176.25,1.0,Organic Search,Americas,0.0
+802,805,201704,20170423,mobile,31.97,1.0,Organic Search,Americas,0.0
+930,933,201704,20170423,desktop,16.5,1.0,Paid Search,Americas,0.0
+1012,1015,201704,20170423,desktop,13.98,1.0,Organic Search,Americas,0.0
+1026,1029,201704,20170423,desktop,35.99,1.0,Referral,Americas,0.0
+1029,1032,201704,20170423,desktop,19.99,1.0,Direct,Americas,0.0
+1041,1044,201704,20170423,desktop,59.77,1.0,Direct,Americas,0.0
+1064,1067,201704,20170423,desktop,412.4,1.0,Referral,Oceania,0.0
+1069,1072,201704,20170423,desktop,94.14,1.0,Referral,Americas,0.0
+1070,1073,201704,20170423,desktop,22.98,1.0,Direct,Americas,0.0
+1073,1076,201704,20170423,desktop,44.97,1.0,Referral,Americas,0.0
+1224,1227,201704,20170423,desktop,62.99,1.0,Organic Search,Americas,0.0
+36,36,201704,20170423,desktop,176.25,1.0,Organic Search,Americas,0.0
+802,805,201704,20170423,mobile,31.97,1.0,Organic Search,Americas,0.0
+930,933,201704,20170423,desktop,16.5,1.0,Paid Search,Americas,0.0
+1012,1015,201704,20170423,desktop,13.98,1.0,Organic Search,Americas,0.0
+1026,1029,201704,20170423,desktop,35.99,1.0,Referral,Americas,0.0
+1029,1032,201704,20170423,desktop,19.99,1.0,Direct,Americas,0.0
+1041,1044,201704,20170423,desktop,59.77,1.0,Direct,Americas,0.0
+1064,1067,201704,20170423,desktop,412.4,1.0,Referral,Oceania,0.0
+1069,1072,201704,20170423,desktop,94.14,1.0,Referral,Americas,0.0
+1070,1073,201704,20170423,desktop,22.98,1.0,Direct,Americas,0.0
+1073,1076,201704,20170423,desktop,44.97,1.0,Referral,Americas,0.0
+1224,1227,201704,20170423,desktop,62.99,1.0,Organic Search,Americas,0.0
+36,36,201704,20170423,desktop,176.25,1.0,Organic Search,Americas,0.0
+802,805,201704,20170423,mobile,31.97,1.0,Organic Search,Americas,0.0
+930,933,201704,20170423,desktop,16.5,1.0,Paid Search,Americas,0.0
+1012,1015,201704,20170423,desktop,13.98,1.0,Organic Search,Americas,0.0
+1026,1029,201704,20170423,desktop,35.99,1.0,Referral,Americas,0.0
+1029,1032,201704,20170423,desktop,19.99,1.0,Direct,Americas,0.0
+1041,1044,201704,20170423,desktop,59.77,1.0,Direct,Americas,0.0
+1064,1067,201704,20170423,desktop,412.4,1.0,Referral,Oceania,0.0
+1069,1072,201704,20170423,desktop,94.14,1.0,Referral,Americas,0.0
+1070,1073,201704,20170423,desktop,22.98,1.0,Direct,Americas,0.0
+1073,1076,201704,20170423,desktop,44.97,1.0,Referral,Americas,0.0
+1224,1227,201704,20170423,desktop,62.99,1.0,Organic Search,Americas,0.0
+36,36,201704,20170423,desktop,176.25,1.0,Organic Search,Americas,0.0
+802,805,201704,20170423,mobile,31.97,1.0,Organic Search,Americas,0.0
+930,933,201704,20170423,desktop,16.5,1.0,Paid Search,Americas,0.0
+1012,1015,201704,20170423,desktop,13.98,1.0,Organic Search,Americas,0.0
+1026,1029,201704,20170423,desktop,35.99,1.0,Referral,Americas,0.0
+1029,1032,201704,20170423,desktop,19.99,1.0,Direct,Americas,0.0
+1041,1044,201704,20170423,desktop,59.77,1.0,Direct,Americas,0.0
+1064,1067,201704,20170423,desktop,412.4,1.0,Referral,Oceania,0.0
+1069,1072,201704,20170423,desktop,94.14,1.0,Referral,Americas,0.0
+1070,1073,201704,20170423,desktop,22.98,1.0,Direct,Americas,0.0
+1073,1076,201704,20170423,desktop,44.97,1.0,Referral,Americas,0.0
+1224,1227,201704,20170423,desktop,62.99,1.0,Organic Search,Americas,0.0
+36,36,201704,20170423,desktop,176.25,1.0,Organic Search,Americas,0.0
+802,805,201704,20170423,mobile,31.97,1.0,Organic Search,Americas,0.0
+930,933,201704,20170423,desktop,16.5,1.0,Paid Search,Americas,0.0
+1012,1015,201704,20170423,desktop,13.98,1.0,Organic Search,Americas,0.0
+1026,1029,201704,20170423,desktop,35.99,1.0,Referral,Americas,0.0
+1029,1032,201704,20170423,desktop,19.99,1.0,Direct,Americas,0.0
+1041,1044,201704,20170423,desktop,59.77,1.0,Direct,Americas,0.0
+1064,1067,201704,20170423,desktop,412.4,1.0,Referral,Oceania,0.0
+1069,1072,201704,20170423,desktop,94.14,1.0,Referral,Americas,0.0
+1070,1073,201704,20170423,desktop,22.98,1.0,Direct,Americas,0.0
+1073,1076,201704,20170423,desktop,44.97,1.0,Referral,Americas,0.0
+1224,1227,201704,20170423,desktop,62.99,1.0,Organic Search,Americas,0.0
+36,36,201704,20170423,desktop,176.25,1.0,Organic Search,Americas,0.0
+802,805,201704,20170423,mobile,31.97,1.0,Organic Search,Americas,0.0
+930,933,201704,20170423,desktop,16.5,1.0,Paid Search,Americas,0.0
+1012,1015,201704,20170423,desktop,13.98,1.0,Organic Search,Americas,0.0
+1026,1029,201704,20170423,desktop,35.99,1.0,Referral,Americas,0.0
+1029,1032,201704,20170423,desktop,19.99,1.0,Direct,Americas,0.0
+1041,1044,201704,20170423,desktop,59.77,1.0,Direct,Americas,0.0
+1064,1067,201704,20170423,desktop,412.4,1.0,Referral,Oceania,0.0
+1069,1072,201704,20170423,desktop,94.14,1.0,Referral,Americas,0.0
+1070,1073,201704,20170423,desktop,22.98,1.0,Direct,Americas,0.0
+1073,1076,201704,20170423,desktop,44.97,1.0,Referral,Americas,0.0
+1224,1227,201704,20170423,desktop,62.99,1.0,Organic Search,Americas,0.0
+36,36,201704,20170423,desktop,176.25,1.0,Organic Search,Americas,0.0
+802,805,201704,20170423,mobile,31.97,1.0,Organic Search,Americas,0.0
+930,933,201704,20170423,desktop,16.5,1.0,Paid Search,Americas,0.0
+1012,1015,201704,20170423,desktop,13.98,1.0,Organic Search,Americas,0.0
+1026,1029,201704,20170423,desktop,35.99,1.0,Referral,Americas,0.0
+1029,1032,201704,20170423,desktop,19.99,1.0,Direct,Americas,0.0
+1041,1044,201704,20170423,desktop,59.77,1.0,Direct,Americas,0.0
+1064,1067,201704,20170423,desktop,412.4,1.0,Referral,Oceania,0.0
+1069,1072,201704,20170423,desktop,94.14,1.0,Referral,Americas,0.0
+1070,1073,201704,20170423,desktop,22.98,1.0,Direct,Americas,0.0
+1073,1076,201704,20170423,desktop,44.97,1.0,Referral,Americas,0.0
+1224,1227,201704,20170423,desktop,62.99,1.0,Organic Search,Americas,0.0
+36,36,201704,20170423,desktop,176.25,1.0,Organic Search,Americas,0.0
+802,805,201704,20170423,mobile,31.97,1.0,Organic Search,Americas,0.0
+930,933,201704,20170423,desktop,16.5,1.0,Paid Search,Americas,0.0
+1012,1015,201704,20170423,desktop,13.98,1.0,Organic Search,Americas,0.0
+1026,1029,201704,20170423,desktop,35.99,1.0,Referral,Americas,0.0
+1029,1032,201704,20170423,desktop,19.99,1.0,Direct,Americas,0.0
+1041,1044,201704,20170423,desktop,59.77,1.0,Direct,Americas,0.0
+1064,1067,201704,20170423,desktop,412.4,1.0,Referral,Oceania,0.0
+1069,1072,201704,20170423,desktop,94.14,1.0,Referral,Americas,0.0
+1070,1073,201704,20170423,desktop,22.98,1.0,Direct,Americas,0.0
+1073,1076,201704,20170423,desktop,44.97,1.0,Referral,Americas,0.0
+1224,1227,201704,20170423,desktop,62.99,1.0,Organic Search,Americas,0.0
+36,36,201704,20170423,desktop,176.25,1.0,Organic Search,Americas,0.0
+802,805,201704,20170423,mobile,31.97,1.0,Organic Search,Americas,0.0
+930,933,201704,20170423,desktop,16.5,1.0,Paid Search,Americas,0.0
+1012,1015,201704,20170423,desktop,13.98,1.0,Organic Search,Americas,0.0
+1026,1029,201704,20170423,desktop,35.99,1.0,Referral,Americas,0.0
+1029,1032,201704,20170423,desktop,19.99,1.0,Direct,Americas,0.0
+1041,1044,201704,20170423,desktop,59.77,1.0,Direct,Americas,0.0
+1064,1067,201704,20170423,desktop,412.4,1.0,Referral,Oceania,0.0
+1069,1072,201704,20170423,desktop,94.14,1.0,Referral,Americas,0.0
+1070,1073,201704,20170423,desktop,22.98,1.0,Direct,Americas,0.0
+1073,1076,201704,20170423,desktop,44.97,1.0,Referral,Americas,0.0
+1224,1227,201704,20170423,desktop,62.99,1.0,Organic Search,Americas,0.0
+36,36,201704,20170423,desktop,176.25,1.0,Organic Search,Americas,0.0
+802,805,201704,20170423,mobile,31.97,1.0,Organic Search,Americas,0.0
+930,933,201704,20170423,desktop,16.5,1.0,Paid Search,Americas,0.0
+1012,1015,201704,20170423,desktop,13.98,1.0,Organic Search,Americas,0.0
+1026,1029,201704,20170423,desktop,35.99,1.0,Referral,Americas,0.0
+1029,1032,201704,20170423,desktop,19.99,1.0,Direct,Americas,0.0
+1041,1044,201704,20170423,desktop,59.77,1.0,Direct,Americas,0.0
+1064,1067,201704,20170423,desktop,412.4,1.0,Referral,Oceania,0.0
+1069,1072,201704,20170423,desktop,94.14,1.0,Referral,Americas,0.0
+1070,1073,201704,20170423,desktop,22.98,1.0,Direct,Americas,0.0
+1073,1076,201704,20170423,desktop,44.97,1.0,Referral,Americas,0.0
+1224,1227,201704,20170423,desktop,62.99,1.0,Organic Search,Americas,0.0
+36,36,201704,20170423,desktop,176.25,1.0,Organic Search,Americas,0.0
+802,805,201704,20170423,mobile,31.97,1.0,Organic Search,Americas,0.0
+930,933,201704,20170423,desktop,16.5,1.0,Paid Search,Americas,0.0
+1012,1015,201704,20170423,desktop,13.98,1.0,Organic Search,Americas,0.0
+1026,1029,201704,20170423,desktop,35.99,1.0,Referral,Americas,0.0
+1029,1032,201704,20170423,desktop,19.99,1.0,Direct,Americas,0.0
+1041,1044,201704,20170423,desktop,59.77,1.0,Direct,Americas,0.0
+1064,1067,201704,20170423,desktop,412.4,1.0,Referral,Oceania,0.0
+1069,1072,201704,20170423,desktop,94.14,1.0,Referral,Americas,0.0
+1070,1073,201704,20170423,desktop,22.98,1.0,Direct,Americas,0.0
+1073,1076,201704,20170423,desktop,44.97,1.0,Referral,Americas,0.0
+1224,1227,201704,20170423,desktop,62.99,1.0,Organic Search,Americas,0.0
+36,36,201704,20170423,desktop,176.25,1.0,Organic Search,Americas,0.0
+802,805,201704,20170423,mobile,31.97,1.0,Organic Search,Americas,0.0
+930,933,201704,20170423,desktop,16.5,1.0,Paid Search,Americas,0.0
+1012,1015,201704,20170423,desktop,13.98,1.0,Organic Search,Americas,0.0
+1026,1029,201704,20170423,desktop,35.99,1.0,Referral,Americas,0.0
+1029,1032,201704,20170423,desktop,19.99,1.0,Direct,Americas,0.0
+1041,1044,201704,20170423,desktop,59.77,1.0,Direct,Americas,0.0
+1064,1067,201704,20170423,desktop,412.4,1.0,Referral,Oceania,0.0
+1069,1072,201704,20170423,desktop,94.14,1.0,Referral,Americas,0.0
+1070,1073,201704,20170423,desktop,22.98,1.0,Direct,Americas,0.0
+1073,1076,201704,20170423,desktop,44.97,1.0,Referral,Americas,0.0
+1224,1227,201704,20170423,desktop,62.99,1.0,Organic Search,Americas,0.0
+36,36,201704,20170423,desktop,176.25,1.0,Organic Search,Americas,0.0
+802,805,201704,20170423,mobile,31.97,1.0,Organic Search,Americas,0.0
+930,933,201704,20170423,desktop,16.5,1.0,Paid Search,Americas,0.0
+1012,1015,201704,20170423,desktop,13.98,1.0,Organic Search,Americas,0.0
+1026,1029,201704,20170423,desktop,35.99,1.0,Referral,Americas,0.0
+1029,1032,201704,20170423,desktop,19.99,1.0,Direct,Americas,0.0
+1041,1044,201704,20170423,desktop,59.77,1.0,Direct,Americas,0.0
+1064,1067,201704,20170423,desktop,412.4,1.0,Referral,Oceania,0.0
+1069,1072,201704,20170423,desktop,94.14,1.0,Referral,Americas,0.0
+1070,1073,201704,20170423,desktop,22.98,1.0,Direct,Americas,0.0
+1073,1076,201704,20170423,desktop,44.97,1.0,Referral,Americas,0.0
+1224,1227,201704,20170423,desktop,62.99,1.0,Organic Search,Americas,0.0
+36,36,201704,20170423,desktop,176.25,1.0,Organic Search,Americas,0.0
+802,805,201704,20170423,mobile,31.97,1.0,Organic Search,Americas,0.0
+930,933,201704,20170423,desktop,16.5,1.0,Paid Search,Americas,0.0
+1012,1015,201704,20170423,desktop,13.98,1.0,Organic Search,Americas,0.0
+1026,1029,201704,20170423,desktop,35.99,1.0,Referral,Americas,0.0
+1029,1032,201704,20170423,desktop,19.99,1.0,Direct,Americas,0.0
+1041,1044,201704,20170423,desktop,59.77,1.0,Direct,Americas,0.0
+1064,1067,201704,20170423,desktop,412.4,1.0,Referral,Oceania,0.0
+1069,1072,201704,20170423,desktop,94.14,1.0,Referral,Americas,0.0
+1070,1073,201704,20170423,desktop,22.98,1.0,Direct,Americas,0.0
+1073,1076,201704,20170423,desktop,44.97,1.0,Referral,Americas,0.0
+1224,1227,201704,20170423,desktop,62.99,1.0,Organic Search,Americas,0.0
+36,36,201704,20170423,desktop,176.25,1.0,Organic Search,Americas,0.0
+802,805,201704,20170423,mobile,31.97,1.0,Organic Search,Americas,0.0
+930,933,201704,20170423,desktop,16.5,1.0,Paid Search,Americas,0.0
+1012,1015,201704,20170423,desktop,13.98,1.0,Organic Search,Americas,0.0
+1026,1029,201704,20170423,desktop,35.99,1.0,Referral,Americas,0.0
+1029,1032,201704,20170423,desktop,19.99,1.0,Direct,Americas,0.0
+1041,1044,201704,20170423,desktop,59.77,1.0,Direct,Americas,0.0
+1064,1067,201704,20170423,desktop,412.4,1.0,Referral,Oceania,0.0
+1069,1072,201704,20170423,desktop,94.14,1.0,Referral,Americas,0.0
+1070,1073,201704,20170423,desktop,22.98,1.0,Direct,Americas,0.0
+1073,1076,201704,20170423,desktop,44.97,1.0,Referral,Americas,0.0
+1224,1227,201704,20170423,desktop,62.99,1.0,Organic Search,Americas,0.0
+36,36,201704,20170423,desktop,176.25,1.0,Organic Search,Americas,0.0
+802,805,201704,20170423,mobile,31.97,1.0,Organic Search,Americas,0.0
+930,933,201704,20170423,desktop,16.5,1.0,Paid Search,Americas,0.0
+1012,1015,201704,20170423,desktop,13.98,1.0,Organic Search,Americas,0.0
+1026,1029,201704,20170423,desktop,35.99,1.0,Referral,Americas,0.0
+1029,1032,201704,20170423,desktop,19.99,1.0,Direct,Americas,0.0
+1041,1044,201704,20170423,desktop,59.77,1.0,Direct,Americas,0.0
+1064,1067,201704,20170423,desktop,412.4,1.0,Referral,Oceania,0.0
+1069,1072,201704,20170423,desktop,94.14,1.0,Referral,Americas,0.0
+1070,1073,201704,20170423,desktop,22.98,1.0,Direct,Americas,0.0
+1073,1076,201704,20170423,desktop,44.97,1.0,Referral,Americas,0.0
+1224,1227,201704,20170423,desktop,62.99,1.0,Organic Search,Americas,0.0
+36,36,201704,20170423,desktop,176.25,1.0,Organic Search,Americas,0.0
+802,805,201704,20170423,mobile,31.97,1.0,Organic Search,Americas,0.0
+930,933,201704,20170423,desktop,16.5,1.0,Paid Search,Americas,0.0
+1012,1015,201704,20170423,desktop,13.98,1.0,Organic Search,Americas,0.0
+1026,1029,201704,20170423,desktop,35.99,1.0,Referral,Americas,0.0
+1029,1032,201704,20170423,desktop,19.99,1.0,Direct,Americas,0.0
+1041,1044,201704,20170423,desktop,59.77,1.0,Direct,Americas,0.0
+1064,1067,201704,20170423,desktop,412.4,1.0,Referral,Oceania,0.0
+1069,1072,201704,20170423,desktop,94.14,1.0,Referral,Americas,0.0
+1070,1073,201704,20170423,desktop,22.98,1.0,Direct,Americas,0.0
+1073,1076,201704,20170423,desktop,44.97,1.0,Referral,Americas,0.0
+1224,1227,201704,20170423,desktop,62.99,1.0,Organic Search,Americas,0.0
+36,36,201704,20170423,desktop,176.25,1.0,Organic Search,Americas,0.0
+802,805,201704,20170423,mobile,31.97,1.0,Organic Search,Americas,0.0
+930,933,201704,20170423,desktop,16.5,1.0,Paid Search,Americas,0.0
+1012,1015,201704,20170423,desktop,13.98,1.0,Organic Search,Americas,0.0
+1026,1029,201704,20170423,desktop,35.99,1.0,Referral,Americas,0.0
+1029,1032,201704,20170423,desktop,19.99,1.0,Direct,Americas,0.0
+1041,1044,201704,20170423,desktop,59.77,1.0,Direct,Americas,0.0
+1064,1067,201704,20170423,desktop,412.4,1.0,Referral,Oceania,0.0
+1069,1072,201704,20170423,desktop,94.14,1.0,Referral,Americas,0.0
+1070,1073,201704,20170423,desktop,22.98,1.0,Direct,Americas,0.0
+1073,1076,201704,20170423,desktop,44.97,1.0,Referral,Americas,0.0
+1224,1227,201704,20170423,desktop,62.99,1.0,Organic Search,Americas,0.0
+36,36,201704,20170423,desktop,176.25,1.0,Organic Search,Americas,0.0
+802,805,201704,20170423,mobile,31.97,1.0,Organic Search,Americas,0.0
+930,933,201704,20170423,desktop,16.5,1.0,Paid Search,Americas,0.0
+1012,1015,201704,20170423,desktop,13.98,1.0,Organic Search,Americas,0.0
+1026,1029,201704,20170423,desktop,35.99,1.0,Referral,Americas,0.0
+1029,1032,201704,20170423,desktop,19.99,1.0,Direct,Americas,0.0
+1041,1044,201704,20170423,desktop,59.77,1.0,Direct,Americas,0.0
+1064,1067,201704,20170423,desktop,412.4,1.0,Referral,Oceania,0.0
+1069,1072,201704,20170423,desktop,94.14,1.0,Referral,Americas,0.0
+1070,1073,201704,20170423,desktop,22.98,1.0,Direct,Americas,0.0
+1073,1076,201704,20170423,desktop,44.97,1.0,Referral,Americas,0.0
+1224,1227,201704,20170423,desktop,62.99,1.0,Organic Search,Americas,0.0
+36,36,201704,20170423,desktop,176.25,1.0,Organic Search,Americas,0.0
+802,805,201704,20170423,mobile,31.97,1.0,Organic Search,Americas,0.0
+930,933,201704,20170423,desktop,16.5,1.0,Paid Search,Americas,0.0
+1012,1015,201704,20170423,desktop,13.98,1.0,Organic Search,Americas,0.0
+1026,1029,201704,20170423,desktop,35.99,1.0,Referral,Americas,0.0
+1029,1032,201704,20170423,desktop,19.99,1.0,Direct,Americas,0.0
+1041,1044,201704,20170423,desktop,59.77,1.0,Direct,Americas,0.0
+1064,1067,201704,20170423,desktop,412.4,1.0,Referral,Oceania,0.0
+1069,1072,201704,20170423,desktop,94.14,1.0,Referral,Americas,0.0
+1070,1073,201704,20170423,desktop,22.98,1.0,Direct,Americas,0.0
+1073,1076,201704,20170423,desktop,44.97,1.0,Referral,Americas,0.0
+1224,1227,201704,20170423,desktop,62.99,1.0,Organic Search,Americas,0.0
+36,36,201704,20170423,desktop,176.25,1.0,Organic Search,Americas,0.0
+802,805,201704,20170423,mobile,31.97,1.0,Organic Search,Americas,0.0
+930,933,201704,20170423,desktop,16.5,1.0,Paid Search,Americas,0.0
+1012,1015,201704,20170423,desktop,13.98,1.0,Organic Search,Americas,0.0
+1026,1029,201704,20170423,desktop,35.99,1.0,Referral,Americas,0.0
+1029,1032,201704,20170423,desktop,19.99,1.0,Direct,Americas,0.0
+1041,1044,201704,20170423,desktop,59.77,1.0,Direct,Americas,0.0
+1064,1067,201704,20170423,desktop,412.4,1.0,Referral,Oceania,0.0
+1069,1072,201704,20170423,desktop,94.14,1.0,Referral,Americas,0.0
+1070,1073,201704,20170423,desktop,22.98,1.0,Direct,Americas,0.0
+1073,1076,201704,20170423,desktop,44.97,1.0,Referral,Americas,0.0
+1224,1227,201704,20170423,desktop,62.99,1.0,Organic Search,Americas,0.0
+36,36,201704,20170423,desktop,176.25,1.0,Organic Search,Americas,0.0
+802,805,201704,20170423,mobile,31.97,1.0,Organic Search,Americas,0.0
+930,933,201704,20170423,desktop,16.5,1.0,Paid Search,Americas,0.0
+1012,1015,201704,20170423,desktop,13.98,1.0,Organic Search,Americas,0.0
+1026,1029,201704,20170423,desktop,35.99,1.0,Referral,Americas,0.0
+1029,1032,201704,20170423,desktop,19.99,1.0,Direct,Americas,0.0
+1041,1044,201704,20170423,desktop,59.77,1.0,Direct,Americas,0.0
+1064,1067,201704,20170423,desktop,412.4,1.0,Referral,Oceania,0.0
+1069,1072,201704,20170423,desktop,94.14,1.0,Referral,Americas,0.0
+1070,1073,201704,20170423,desktop,22.98,1.0,Direct,Americas,0.0
+1073,1076,201704,20170423,desktop,44.97,1.0,Referral,Americas,0.0
+1224,1227,201704,20170423,desktop,62.99,1.0,Organic Search,Americas,0.0
+36,36,201704,20170423,desktop,176.25,1.0,Organic Search,Americas,0.0
+802,805,201704,20170423,mobile,31.97,1.0,Organic Search,Americas,0.0
+930,933,201704,20170423,desktop,16.5,1.0,Paid Search,Americas,0.0
+1012,1015,201704,20170423,desktop,13.98,1.0,Organic Search,Americas,0.0
+1026,1029,201704,20170423,desktop,35.99,1.0,Referral,Americas,0.0
+1029,1032,201704,20170423,desktop,19.99,1.0,Direct,Americas,0.0
+1041,1044,201704,20170423,desktop,59.77,1.0,Direct,Americas,0.0
+1064,1067,201704,20170423,desktop,412.4,1.0,Referral,Oceania,0.0
+1069,1072,201704,20170423,desktop,94.14,1.0,Referral,Americas,0.0
+1070,1073,201704,20170423,desktop,22.98,1.0,Direct,Americas,0.0
+1073,1076,201704,20170423,desktop,44.97,1.0,Referral,Americas,0.0
+1224,1227,201704,20170423,desktop,62.99,1.0,Organic Search,Americas,0.0
+36,36,201704,20170423,desktop,176.25,1.0,Organic Search,Americas,0.0
+802,805,201704,20170423,mobile,31.97,1.0,Organic Search,Americas,0.0
+930,933,201704,20170423,desktop,16.5,1.0,Paid Search,Americas,0.0
+1012,1015,201704,20170423,desktop,13.98,1.0,Organic Search,Americas,0.0
+1026,1029,201704,20170423,desktop,35.99,1.0,Referral,Americas,0.0
+1029,1032,201704,20170423,desktop,19.99,1.0,Direct,Americas,0.0
+1041,1044,201704,20170423,desktop,59.77,1.0,Direct,Americas,0.0
+1064,1067,201704,20170423,desktop,412.4,1.0,Referral,Oceania,0.0
+1069,1072,201704,20170423,desktop,94.14,1.0,Referral,Americas,0.0
+1070,1073,201704,20170423,desktop,22.98,1.0,Direct,Americas,0.0
+1073,1076,201704,20170423,desktop,44.97,1.0,Referral,Americas,0.0
+1224,1227,201704,20170423,desktop,62.99,1.0,Organic Search,Americas,0.0
+36,36,201704,20170423,desktop,176.25,1.0,Organic Search,Americas,0.0
+802,805,201704,20170423,mobile,31.97,1.0,Organic Search,Americas,0.0
+930,933,201704,20170423,desktop,16.5,1.0,Paid Search,Americas,0.0
+1012,1015,201704,20170423,desktop,13.98,1.0,Organic Search,Americas,0.0
+1026,1029,201704,20170423,desktop,35.99,1.0,Referral,Americas,0.0
+1029,1032,201704,20170423,desktop,19.99,1.0,Direct,Americas,0.0
+1041,1044,201704,20170423,desktop,59.77,1.0,Direct,Americas,0.0
+1064,1067,201704,20170423,desktop,412.4,1.0,Referral,Oceania,0.0
+1069,1072,201704,20170423,desktop,94.14,1.0,Referral,Americas,0.0
+1070,1073,201704,20170423,desktop,22.98,1.0,Direct,Americas,0.0
+1073,1076,201704,20170423,desktop,44.97,1.0,Referral,Americas,0.0
+1224,1227,201704,20170423,desktop,62.99,1.0,Organic Search,Americas,0.0
+36,36,201704,20170423,desktop,176.25,1.0,Organic Search,Americas,0.0
+802,805,201704,20170423,mobile,31.97,1.0,Organic Search,Americas,0.0
+930,933,201704,20170423,desktop,16.5,1.0,Paid Search,Americas,0.0
+1012,1015,201704,20170423,desktop,13.98,1.0,Organic Search,Americas,0.0
+1026,1029,201704,20170423,desktop,35.99,1.0,Referral,Americas,0.0
+1029,1032,201704,20170423,desktop,19.99,1.0,Direct,Americas,0.0
+1041,1044,201704,20170423,desktop,59.77,1.0,Direct,Americas,0.0
+1064,1067,201704,20170423,desktop,412.4,1.0,Referral,Oceania,0.0
+1069,1072,201704,20170423,desktop,94.14,1.0,Referral,Americas,0.0
+1070,1073,201704,20170423,desktop,22.98,1.0,Direct,Americas,0.0
+1073,1076,201704,20170423,desktop,44.97,1.0,Referral,Americas,0.0
+1224,1227,201704,20170423,desktop,62.99,1.0,Organic Search,Americas,0.0
+36,36,201704,20170423,desktop,176.25,1.0,Organic Search,Americas,0.0
+802,805,201704,20170423,mobile,31.97,1.0,Organic Search,Americas,0.0
+930,933,201704,20170423,desktop,16.5,1.0,Paid Search,Americas,0.0
+1012,1015,201704,20170423,desktop,13.98,1.0,Organic Search,Americas,0.0
+1026,1029,201704,20170423,desktop,35.99,1.0,Referral,Americas,0.0
+1029,1032,201704,20170423,desktop,19.99,1.0,Direct,Americas,0.0
+1041,1044,201704,20170423,desktop,59.77,1.0,Direct,Americas,0.0
+1064,1067,201704,20170423,desktop,412.4,1.0,Referral,Oceania,0.0
+1069,1072,201704,20170423,desktop,94.14,1.0,Referral,Americas,0.0
+1070,1073,201704,20170423,desktop,22.98,1.0,Direct,Americas,0.0
+1073,1076,201704,20170423,desktop,44.97,1.0,Referral,Americas,0.0
+1224,1227,201704,20170423,desktop,62.99,1.0,Organic Search,Americas,0.0
+36,36,201704,20170423,desktop,176.25,1.0,Organic Search,Americas,0.0
+802,805,201704,20170423,mobile,31.97,1.0,Organic Search,Americas,0.0
+930,933,201704,20170423,desktop,16.5,1.0,Paid Search,Americas,0.0
+1012,1015,201704,20170423,desktop,13.98,1.0,Organic Search,Americas,0.0
+1026,1029,201704,20170423,desktop,35.99,1.0,Referral,Americas,0.0
+1029,1032,201704,20170423,desktop,19.99,1.0,Direct,Americas,0.0
+1041,1044,201704,20170423,desktop,59.77,1.0,Direct,Americas,0.0
+1064,1067,201704,20170423,desktop,412.4,1.0,Referral,Oceania,0.0
+1069,1072,201704,20170423,desktop,94.14,1.0,Referral,Americas,0.0
+1070,1073,201704,20170423,desktop,22.98,1.0,Direct,Americas,0.0
+1073,1076,201704,20170423,desktop,44.97,1.0,Referral,Americas,0.0
+1224,1227,201704,20170423,desktop,62.99,1.0,Organic Search,Americas,0.0
+36,36,201704,20170423,desktop,176.25,1.0,Organic Search,Americas,0.0
+802,805,201704,20170423,mobile,31.97,1.0,Organic Search,Americas,0.0
+930,933,201704,20170423,desktop,16.5,1.0,Paid Search,Americas,0.0
+1012,1015,201704,20170423,desktop,13.98,1.0,Organic Search,Americas,0.0
+1026,1029,201704,20170423,desktop,35.99,1.0,Referral,Americas,0.0
+1029,1032,201704,20170423,desktop,19.99,1.0,Direct,Americas,0.0
+1041,1044,201704,20170423,desktop,59.77,1.0,Direct,Americas,0.0
+1064,1067,201704,20170423,desktop,412.4,1.0,Referral,Oceania,0.0
+1069,1072,201704,20170423,desktop,94.14,1.0,Referral,Americas,0.0
+1070,1073,201704,20170423,desktop,22.98,1.0,Direct,Americas,0.0
+1073,1076,201704,20170423,desktop,44.97,1.0,Referral,Americas,0.0
+1224,1227,201704,20170423,desktop,62.99,1.0,Organic Search,Americas,0.0
+36,36,201704,20170423,desktop,176.25,1.0,Organic Search,Americas,0.0
+802,805,201704,20170423,mobile,31.97,1.0,Organic Search,Americas,0.0
+930,933,201704,20170423,desktop,16.5,1.0,Paid Search,Americas,0.0
+1012,1015,201704,20170423,desktop,13.98,1.0,Organic Search,Americas,0.0
+1026,1029,201704,20170423,desktop,35.99,1.0,Referral,Americas,0.0
+1029,1032,201704,20170423,desktop,19.99,1.0,Direct,Americas,0.0
+1041,1044,201704,20170423,desktop,59.77,1.0,Direct,Americas,0.0
+1064,1067,201704,20170423,desktop,412.4,1.0,Referral,Oceania,0.0
+1069,1072,201704,20170423,desktop,94.14,1.0,Referral,Americas,0.0
+1070,1073,201704,20170423,desktop,22.98,1.0,Direct,Americas,0.0
+1073,1076,201704,20170423,desktop,44.97,1.0,Referral,Americas,0.0
+1224,1227,201704,20170423,desktop,62.99,1.0,Organic Search,Americas,0.0
+36,36,201704,20170423,desktop,176.25,1.0,Organic Search,Americas,0.0
+802,805,201704,20170423,mobile,31.97,1.0,Organic Search,Americas,0.0
+930,933,201704,20170423,desktop,16.5,1.0,Paid Search,Americas,0.0
+1012,1015,201704,20170423,desktop,13.98,1.0,Organic Search,Americas,0.0
+1026,1029,201704,20170423,desktop,35.99,1.0,Referral,Americas,0.0
+1029,1032,201704,20170423,desktop,19.99,1.0,Direct,Americas,0.0
+1041,1044,201704,20170423,desktop,59.77,1.0,Direct,Americas,0.0
+1064,1067,201704,20170423,desktop,412.4,1.0,Referral,Oceania,0.0
+1069,1072,201704,20170423,desktop,94.14,1.0,Referral,Americas,0.0
+1070,1073,201704,20170423,desktop,22.98,1.0,Direct,Americas,0.0
+1073,1076,201704,20170423,desktop,44.97,1.0,Referral,Americas,0.0
+1224,1227,201704,20170423,desktop,62.99,1.0,Organic Search,Americas,0.0
+36,36,201704,20170423,desktop,176.25,1.0,Organic Search,Americas,0.0
+802,805,201704,20170423,mobile,31.97,1.0,Organic Search,Americas,0.0
+930,933,201704,20170423,desktop,16.5,1.0,Paid Search,Americas,0.0
+1012,1015,201704,20170423,desktop,13.98,1.0,Organic Search,Americas,0.0
+1026,1029,201704,20170423,desktop,35.99,1.0,Referral,Americas,0.0
+1029,1032,201704,20170423,desktop,19.99,1.0,Direct,Americas,0.0
+1041,1044,201704,20170423,desktop,59.77,1.0,Direct,Americas,0.0
+1064,1067,201704,20170423,desktop,412.4,1.0,Referral,Oceania,0.0
+1069,1072,201704,20170423,desktop,94.14,1.0,Referral,Americas,0.0
+1070,1073,201704,20170423,desktop,22.98,1.0,Direct,Americas,0.0
+1073,1076,201704,20170423,desktop,44.97,1.0,Referral,Americas,0.0
+1224,1227,201704,20170423,desktop,62.99,1.0,Organic Search,Americas,0.0
+36,36,201704,20170423,desktop,176.25,1.0,Organic Search,Americas,0.0
+802,805,201704,20170423,mobile,31.97,1.0,Organic Search,Americas,0.0
+930,933,201704,20170423,desktop,16.5,1.0,Paid Search,Americas,0.0
+1012,1015,201704,20170423,desktop,13.98,1.0,Organic Search,Americas,0.0
+1026,1029,201704,20170423,desktop,35.99,1.0,Referral,Americas,0.0
+1029,1032,201704,20170423,desktop,19.99,1.0,Direct,Americas,0.0
+1041,1044,201704,20170423,desktop,59.77,1.0,Direct,Americas,0.0
+1064,1067,201704,20170423,desktop,412.4,1.0,Referral,Oceania,0.0
+1069,1072,201704,20170423,desktop,94.14,1.0,Referral,Americas,0.0
+1070,1073,201704,20170423,desktop,22.98,1.0,Direct,Americas,0.0
+1073,1076,201704,20170423,desktop,44.97,1.0,Referral,Americas,0.0
+1224,1227,201704,20170423,desktop,62.99,1.0,Organic Search,Americas,0.0
+36,36,201704,20170423,desktop,176.25,1.0,Organic Search,Americas,0.0
+802,805,201704,20170423,mobile,31.97,1.0,Organic Search,Americas,0.0
+930,933,201704,20170423,desktop,16.5,1.0,Paid Search,Americas,0.0
+1012,1015,201704,20170423,desktop,13.98,1.0,Organic Search,Americas,0.0
+1026,1029,201704,20170423,desktop,35.99,1.0,Referral,Americas,0.0
+1029,1032,201704,20170423,desktop,19.99,1.0,Direct,Americas,0.0
+1041,1044,201704,20170423,desktop,59.77,1.0,Direct,Americas,0.0
+1064,1067,201704,20170423,desktop,412.4,1.0,Referral,Oceania,0.0
+1069,1072,201704,20170423,desktop,94.14,1.0,Referral,Americas,0.0
+1070,1073,201704,20170423,desktop,22.98,1.0,Direct,Americas,0.0
+1073,1076,201704,20170423,desktop,44.97,1.0,Referral,Americas,0.0
+1224,1227,201704,20170423,desktop,62.99,1.0,Organic Search,Americas,0.0
+36,36,201704,20170423,desktop,176.25,1.0,Organic Search,Americas,0.0
+802,805,201704,20170423,mobile,31.97,1.0,Organic Search,Americas,0.0
+930,933,201704,20170423,desktop,16.5,1.0,Paid Search,Americas,0.0
+1012,1015,201704,20170423,desktop,13.98,1.0,Organic Search,Americas,0.0
+1026,1029,201704,20170423,desktop,35.99,1.0,Referral,Americas,0.0
+1029,1032,201704,20170423,desktop,19.99,1.0,Direct,Americas,0.0
+1041,1044,201704,20170423,desktop,59.77,1.0,Direct,Americas,0.0
+1064,1067,201704,20170423,desktop,412.4,1.0,Referral,Oceania,0.0
+1069,1072,201704,20170423,desktop,94.14,1.0,Referral,Americas,0.0
+1070,1073,201704,20170423,desktop,22.98,1.0,Direct,Americas,0.0
+1073,1076,201704,20170423,desktop,44.97,1.0,Referral,Americas,0.0
+1224,1227,201704,20170423,desktop,62.99,1.0,Organic Search,Americas,0.0
+36,36,201704,20170423,desktop,176.25,1.0,Organic Search,Americas,0.0
+802,805,201704,20170423,mobile,31.97,1.0,Organic Search,Americas,0.0
+930,933,201704,20170423,desktop,16.5,1.0,Paid Search,Americas,0.0
+1012,1015,201704,20170423,desktop,13.98,1.0,Organic Search,Americas,0.0
+1026,1029,201704,20170423,desktop,35.99,1.0,Referral,Americas,0.0
+1029,1032,201704,20170423,desktop,19.99,1.0,Direct,Americas,0.0
+1041,1044,201704,20170423,desktop,59.77,1.0,Direct,Americas,0.0
+1064,1067,201704,20170423,desktop,412.4,1.0,Referral,Oceania,0.0
+1069,1072,201704,20170423,desktop,94.14,1.0,Referral,Americas,0.0
+1070,1073,201704,20170423,desktop,22.98,1.0,Direct,Americas,0.0
+1073,1076,201704,20170423,desktop,44.97,1.0,Referral,Americas,0.0
+1224,1227,201704,20170423,desktop,62.99,1.0,Organic Search,Americas,0.0
+36,36,201704,20170423,desktop,176.25,1.0,Organic Search,Americas,0.0
+802,805,201704,20170423,mobile,31.97,1.0,Organic Search,Americas,0.0
+930,933,201704,20170423,desktop,16.5,1.0,Paid Search,Americas,0.0
+1012,1015,201704,20170423,desktop,13.98,1.0,Organic Search,Americas,0.0
+1026,1029,201704,20170423,desktop,35.99,1.0,Referral,Americas,0.0
+1029,1032,201704,20170423,desktop,19.99,1.0,Direct,Americas,0.0
+1041,1044,201704,20170423,desktop,59.77,1.0,Direct,Americas,0.0
+1064,1067,201704,20170423,desktop,412.4,1.0,Referral,Oceania,0.0
+1069,1072,201704,20170423,desktop,94.14,1.0,Referral,Americas,0.0
+1070,1073,201704,20170423,desktop,22.98,1.0,Direct,Americas,0.0
+1073,1076,201704,20170423,desktop,44.97,1.0,Referral,Americas,0.0
+1224,1227,201704,20170423,desktop,62.99,1.0,Organic Search,Americas,0.0
+36,36,201704,20170423,desktop,176.25,1.0,Organic Search,Americas,0.0
+802,805,201704,20170423,mobile,31.97,1.0,Organic Search,Americas,0.0
+930,933,201704,20170423,desktop,16.5,1.0,Paid Search,Americas,0.0
+1012,1015,201704,20170423,desktop,13.98,1.0,Organic Search,Americas,0.0
+1026,1029,201704,20170423,desktop,35.99,1.0,Referral,Americas,0.0
+1029,1032,201704,20170423,desktop,19.99,1.0,Direct,Americas,0.0
+1041,1044,201704,20170423,desktop,59.77,1.0,Direct,Americas,0.0
+1064,1067,201704,20170423,desktop,412.4,1.0,Referral,Oceania,0.0
+1069,1072,201704,20170423,desktop,94.14,1.0,Referral,Americas,0.0
+1070,1073,201704,20170423,desktop,22.98,1.0,Direct,Americas,0.0
+1073,1076,201704,20170423,desktop,44.97,1.0,Referral,Americas,0.0
+1224,1227,201704,20170423,desktop,62.99,1.0,Organic Search,Americas,0.0
+36,36,201704,20170423,desktop,176.25,1.0,Organic Search,Americas,0.0
+802,805,201704,20170423,mobile,31.97,1.0,Organic Search,Americas,0.0
+930,933,201704,20170423,desktop,16.5,1.0,Paid Search,Americas,0.0
+1012,1015,201704,20170423,desktop,13.98,1.0,Organic Search,Americas,0.0
+1026,1029,201704,20170423,desktop,35.99,1.0,Referral,Americas,0.0
+1029,1032,201704,20170423,desktop,19.99,1.0,Direct,Americas,0.0
+1041,1044,201704,20170423,desktop,59.77,1.0,Direct,Americas,0.0
+1064,1067,201704,20170423,desktop,412.4,1.0,Referral,Oceania,0.0
+1069,1072,201704,20170423,desktop,94.14,1.0,Referral,Americas,0.0
+1070,1073,201704,20170423,desktop,22.98,1.0,Direct,Americas,0.0
+1073,1076,201704,20170423,desktop,44.97,1.0,Referral,Americas,0.0
+1224,1227,201704,20170423,desktop,62.99,1.0,Organic Search,Americas,0.0
+36,36,201704,20170423,desktop,176.25,1.0,Organic Search,Americas,0.0
+802,805,201704,20170423,mobile,31.97,1.0,Organic Search,Americas,0.0
+930,933,201704,20170423,desktop,16.5,1.0,Paid Search,Americas,0.0
+1012,1015,201704,20170423,desktop,13.98,1.0,Organic Search,Americas,0.0
+1026,1029,201704,20170423,desktop,35.99,1.0,Referral,Americas,0.0
+1029,1032,201704,20170423,desktop,19.99,1.0,Direct,Americas,0.0
+1041,1044,201704,20170423,desktop,59.77,1.0,Direct,Americas,0.0
+1064,1067,201704,20170423,desktop,412.4,1.0,Referral,Oceania,0.0
+1069,1072,201704,20170423,desktop,94.14,1.0,Referral,Americas,0.0
+1070,1073,201704,20170423,desktop,22.98,1.0,Direct,Americas,0.0
+1073,1076,201704,20170423,desktop,44.97,1.0,Referral,Americas,0.0
+1224,1227,201704,20170423,desktop,62.99,1.0,Organic Search,Americas,0.0
+36,36,201704,20170423,desktop,176.25,1.0,Organic Search,Americas,0.0
+802,805,201704,20170423,mobile,31.97,1.0,Organic Search,Americas,0.0
+930,933,201704,20170423,desktop,16.5,1.0,Paid Search,Americas,0.0
+1012,1015,201704,20170423,desktop,13.98,1.0,Organic Search,Americas,0.0
+1026,1029,201704,20170423,desktop,35.99,1.0,Referral,Americas,0.0
+1029,1032,201704,20170423,desktop,19.99,1.0,Direct,Americas,0.0
+1041,1044,201704,20170423,desktop,59.77,1.0,Direct,Americas,0.0
+1064,1067,201704,20170423,desktop,412.4,1.0,Referral,Oceania,0.0
+1069,1072,201704,20170423,desktop,94.14,1.0,Referral,Americas,0.0
+1070,1073,201704,20170423,desktop,22.98,1.0,Direct,Americas,0.0
+1073,1076,201704,20170423,desktop,44.97,1.0,Referral,Americas,0.0
+1224,1227,201704,20170423,desktop,62.99,1.0,Organic Search,Americas,0.0
+36,36,201704,20170423,desktop,176.25,1.0,Organic Search,Americas,0.0
+802,805,201704,20170423,mobile,31.97,1.0,Organic Search,Americas,0.0
+930,933,201704,20170423,desktop,16.5,1.0,Paid Search,Americas,0.0
+1012,1015,201704,20170423,desktop,13.98,1.0,Organic Search,Americas,0.0
+1026,1029,201704,20170423,desktop,35.99,1.0,Referral,Americas,0.0
+1029,1032,201704,20170423,desktop,19.99,1.0,Direct,Americas,0.0
+1041,1044,201704,20170423,desktop,59.77,1.0,Direct,Americas,0.0
+1064,1067,201704,20170423,desktop,412.4,1.0,Referral,Oceania,0.0
+1069,1072,201704,20170423,desktop,94.14,1.0,Referral,Americas,0.0
+1070,1073,201704,20170423,desktop,22.98,1.0,Direct,Americas,0.0
+1073,1076,201704,20170423,desktop,44.97,1.0,Referral,Americas,0.0
+1224,1227,201704,20170423,desktop,62.99,1.0,Organic Search,Americas,0.0
+36,36,201704,20170423,desktop,176.25,1.0,Organic Search,Americas,0.0
+802,805,201704,20170423,mobile,31.97,1.0,Organic Search,Americas,0.0
+930,933,201704,20170423,desktop,16.5,1.0,Paid Search,Americas,0.0
+1012,1015,201704,20170423,desktop,13.98,1.0,Organic Search,Americas,0.0
+1026,1029,201704,20170423,desktop,35.99,1.0,Referral,Americas,0.0
+1029,1032,201704,20170423,desktop,19.99,1.0,Direct,Americas,0.0
+1041,1044,201704,20170423,desktop,59.77,1.0,Direct,Americas,0.0
+1064,1067,201704,20170423,desktop,412.4,1.0,Referral,Oceania,0.0
+1069,1072,201704,20170423,desktop,94.14,1.0,Referral,Americas,0.0
+1070,1073,201704,20170423,desktop,22.98,1.0,Direct,Americas,0.0
+1073,1076,201704,20170423,desktop,44.97,1.0,Referral,Americas,0.0
+1224,1227,201704,20170423,desktop,62.99,1.0,Organic Search,Americas,0.0
